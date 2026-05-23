@@ -30,6 +30,26 @@ function farm_l10n_install() {
   // Set Chinese (Simplified) as the default selected language.
   \Drupal::configFactory()->getEditable('language.negotiation')->set('selected_langcode', 'zh-hans')->save();
   
+  // Import Chinese translations if available.
+  $module_path = \Drupal::service('extension.list.module')->getPath('farm_l10n');
+  $translation_file = $module_path . '/translations/farm_l10n.zh-hans.po';
+  
+  if (file_exists($translation_file)) {
+    $file = (object) [
+      'filename' => basename($translation_file),
+      'uri' => $translation_file,
+    ];
+    
+    // Import the translation file.
+    $options = [
+      'overwrite_options' => LOCALE_TRANSLATION_OVERWRITE_NON_CUSTOMIZED,
+      'customized' => 0,
+    ];
+    
+    // Import translation using locale module.
+    _locale_import_po($file, 'zh-hans', $options);
+  }
+  
   // Rebuild the container to reflect language changes.
   \Drupal::service('kernel')->rebuildContainer();
 }
