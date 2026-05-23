@@ -13,11 +13,11 @@ version: 4.x
 # automatically selected during installation.
 distribution:
   name: farmOS
-  # Set the default language to English.
+  # Set the default language to Chinese.
   # We do not allow this default site language config to be changed.
   # Instead, we use the "Selected language" detection method to set the default.
   # @see https://www.drupal.org/project/farm/issues/3257430
-  langcode: en
+  langcode: zh-hans
 exclusive: true
 
 # Required modules.
