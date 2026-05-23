@@ -1,71 +1,67 @@
 # farmOS
 
-[![Licence](https://img.shields.io/badge/Licence-GPL%202.0-blue.svg)](https://opensource.org/licenses/GPL-2.0/)
-[![Release](https://img.shields.io/github/release/farmOS/farmOS.svg?style=flat)](https://github.com/farmOS/farmOS/releases)
-[![Last commit](https://img.shields.io/github/last-commit/farmOS/farmOS.svg?style=flat)](https://github.com/farmOS/farmOS/commits)
+[![许可协议](https://img.shields.io/badge/Licence-GPL%202.0-blue.svg)](https://opensource.org/licenses/GPL-2.0/)
+[![发布版本](https://img.shields.io/github/release/farmOS/farmOS.svg?style=flat)](https://github.com/farmOS/farmOS/releases)
+[![最后提交](https://img.shields.io/github/last-commit/farmOS/farmOS.svg?style=flat)](https://github.com/farmOS/farmOS/commits)
 [![Docker](https://img.shields.io/docker/pulls/farmos/farmos.svg)](https://hub.docker.com/r/farmos/farmos/)
-[![Chat](https://img.shields.io/matrix/farmOS:matrix.org.svg)](https://app.element.io/#/room/#farmOS:matrix.org)
-[![Backers on Open Collective](https://opencollective.com/farmOS/backers/badge.svg)](#backers)
-[![Sponsors on Open Collective](https://opencollective.com/farmOS/sponsors/badge.svg)](#sponsors)
+[![在线聊天](https://img.shields.io/matrix/farmOS:matrix.org.svg)](https://app.element.io/#/room/#farmOS:matrix.org)
+[![Open Collective 支持者](https://opencollective.com/farmOS/backers/badge.svg)](#backers)
+[![Open Collective 赞助商](https://opencollective.com/farmOS/sponsors/badge.svg)](#sponsors)
 
-farmOS is a web-based application for farm management, planning, and record
-keeping. It is developed by a community of volunteers and aims to provide a
-standard platform for farmers, developers, and researchers to build upon.
+farmOS 是一个基于 Web 的应用程序，用于农场管理、规划和记录保存。它由一群志愿者开发，旨在为农民、开发者和研究人员提供一个标准化的平台来构建和发展。
 
-Official website: [farmOS.org](https://farmOS.org)
+官方网站：[farmOS.org](https://farmOS.org)
 
-## GETTING STARTED
+## 快速开始
 
-If you would like to install and host farmOS yourself, see the official
-documentation on farmOS.org: https://farmOS.org/hosting/install
+如果您想自行安装和托管 farmOS，请参阅 farmOS.org 上的官方文档：https://farmOS.org/hosting/install
 
-If you would like to pay for hosting, [Farmier](https://farmier.com) provides
-affordable options for individual farms and organizations.
+如果您需要付费托管服务，[Farmier](https://farmier.com) 为个人农场和组织提供了经济实惠的选择。
 
-## MAINTAINERS
+## 维护者
 
-Current maintainers:
+当前维护者：
  * Michael Stenta (m.stenta) - https://drupal.org/user/581414
 
-This project has been sponsored by:
+本项目由以下组织和机构赞助：
 
  * [Farmier](http://farmier.com)
- * [Cornell University](http://www.cornell.edu)
- * [Vermont Agency of Agriculture Food & Markets](http://agriculture.vermont.gov)
- * [Vermont Housing & Conservation Board](http://www.vhcb.org)
- * [UVM Extension](https://www.uvm.edu/extension)
- * [Globetrotter Foundation](http://globetrotterfoundation.org)
- * [Vermont Vegetable and Berry Growers Association](http://www.uvm.edu/vtvegandberry)
- * [Pennsylvania Association for Sustainable Agriculture](https://pasafarming.org)
- * [Natural Resources Conservation Service](https://www.nrcs.usda.gov)
- * [The United States Forest Service - International Programs](https://www.fs.fed.us/about-agency/international-programs)
- * [The National Forestry Authority of Uganda](https://www.nfa.org.ug/)
+ * [康奈尔大学](http://www.cornell.edu)
+ * [佛蒙特州农业食品与市场署](http://agriculture.vermont.gov)
+ * [佛蒙特州住房与保护委员会](http://www.vhcb.org)
+ * [UVM 推广中心](https://www.uvm.edu/extension)
+ * [环球旅行家基金会](http://globetrotterfoundation.org)
+ * [佛蒙特州蔬菜和浆果种植者协会](http://www.uvm.edu/vtvegandberry)
+ * [宾夕法尼亚州可持续农业协会](https://pasafarming.org)
+ * [自然资源保护服务](https://www.nrcs.usda.gov)
+ * [美国森林服务局 - 国际项目](https://www.fs.fed.us/about-agency/international-programs)
+ * [乌干达国家森林管理局](https://www.nfa.org.ug/)
  * [Our Sci](http://our-sci.net)
- * [Bionutrient Food Association](https://bionutrient.org)
- * [Foundation for Food and Agriculture Research](https://foundationfar.org/)
- * [PVAMU College of Agriculture and Human Sciences](https://www.pvamu.edu/cahs/)
- * [Rothamsted Research](https://www.rothamsted.ac.uk/)
+ * [生物营养食品协会](https://bionutrient.org)
+ * [食品与农业研究基金会](https://foundationfar.org/)
+ * [PVAMU 农业与人文科学学院](https://www.pvamu.edu/cahs/)
+ * [洛桑研究所](https://www.rothamsted.ac.uk/)
  * [OpenTEAM](https://openteam.community)
- * [Wolfe's Neck Center for Agriculture and the Environment](https://www.wolfesneck.org)
- * [Rooted Solutions](https://www.rootedsolutions.io/)
- * [Cal Poly Initiative for Climate Leadership and Resilience](https://climate.calpoly.edu/)
- * [Upper Salinas-Las Tablas Resource Conservation District](https://www.us-ltrcd.org/)
- * [Point Blue Conservation Science](https://www.pointblue.org/)
+ * [Wolfe's Neck 农业与环境中心](https://www.wolfesneck.org)
+ * [根植方案](https://www.rootedsolutions.io/)
+ * [加州州立理工大学气候领导力与韧性倡议](https://climate.calpoly.edu/)
+ * [上萨利纳斯-拉斯塔布拉斯资源保护区](https://www.us-ltrcd.org/)
+ * [Point Blue 保护科学](https://www.pointblue.org/)
 
-## CONTRIBUTORS
+## 贡献者
 
-This project exists thanks to all the people who contribute.
+感谢所有为本项目做出贡献的人们！
 <a href="https://github.com/farmOS/farmOS/graphs/contributors"><img src="https://opencollective.com/farmOS/contributors.svg?width=890&button=false" /></a>
 
-## OPENCOLLECTIVE BACKERS
+## Open Collective 支持者
 
-Thank you to all our OpenCollective backers! [[Become a backer](https://opencollective.com/farmOS#backer)]
+感谢我们所有的 OpenCollective 支持者！[[成为支持者](https://opencollective.com/farmOS#backer)]
 
 <a href="https://opencollective.com/farmOS#backers" target="_blank"><img src="https://opencollective.com/farmOS/backers.svg?width=890"></a>
 
-## OPENCOLLECTIVE SPONSORS
+## Open Collective 赞助商
 
-Support this project by becoming an OpenCollective sponsor. [[Become a sponsor](https://opencollective.com/farmOS#sponsor)]
+通过成为 OpenCollective 赞助商来支持这个项目。[[成为赞助商](https://opencollective.com/farmOS#sponsor)]
 
 <a href="https://opencollective.com/farmOS/sponsor/0/website" target="_blank"><img src="https://opencollective.com/farmOS/sponsor/0/avatar.svg"></a>
 <a href="https://opencollective.com/farmOS/sponsor/1/website" target="_blank"><img src="https://opencollective.com/farmOS/sponsor/1/avatar.svg"></a>
