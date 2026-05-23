@@ -1,0 +1,1398 @@
+# Chinese Simplified translation for farmOS
+# Copyright (c) 2024 farmOS Community
+# This file is distributed under the same license as the farmOS package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: farmOS 4.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-01-01 00:00+0000\n"
+"PO-Revision-Date: 2024-01-01 00:00+0000\n"
+"Last-Translator: farmOS Community\n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh-hans\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# Profile
+msgid "farmOS"
+msgstr "农场管理系统"
+
+msgid "A web-based farm record keeping application."
+msgstr "一个基于Web的农场记录管理应用。"
+
+# Core entity types
+msgid "Asset"
+msgstr "资产"
+
+msgid "Assets"
+msgstr "资产"
+
+msgid "Log"
+msgstr "日志"
+
+msgid "Logs"
+msgstr "日志"
+
+msgid "Plan"
+msgstr "计划"
+
+msgid "Plans"
+msgstr "计划"
+
+msgid "Organization"
+msgstr "组织"
+
+msgid "Organizations"
+msgstr "组织"
+
+# Asset types
+msgid "Animal"
+msgstr "动物"
+
+msgid "Animals"
+msgstr "动物"
+
+msgid "Plant"
+msgstr "植物"
+
+msgid "Plants"
+msgstr "植物"
+
+msgid "Land"
+msgstr "土地"
+
+msgid "Lands"
+msgstr "土地"
+
+msgid "Equipment"
+msgstr "设备"
+
+msgid "Equipments"
+msgstr "设备"
+
+msgid "Group"
+msgstr "群组"
+
+msgid "Groups"
+msgstr "群组"
+
+msgid "Sensor"
+msgstr "传感器"
+
+msgid "Sensors"
+msgstr "传感器"
+
+msgid "Material"
+msgstr "材料"
+
+msgid "Materials"
+msgstr "材料"
+
+msgid "Seed"
+msgstr "种子"
+
+msgid "Seeds"
+msgstr "种子"
+
+msgid "Structure"
+msgstr "建筑"
+
+msgid "Structures"
+msgstr "建筑"
+
+msgid "Water"
+msgstr "水源"
+
+msgid "Compost"
+msgstr "堆肥"
+
+msgid "Composts"
+msgstr "堆肥"
+
+msgid "Product"
+msgstr "产品"
+
+msgid "Products"
+msgstr "产品"
+
+# Log types
+msgid "Activity"
+msgstr "活动"
+
+msgid "Activities"
+msgstr "活动"
+
+msgid "Observation"
+msgstr "观察"
+
+msgid "Observations"
+msgstr "观察"
+
+msgid "Harvest"
+msgstr "收获"
+
+msgid "Harvests"
+msgstr "收获"
+
+msgid "Seeding"
+msgstr "播种"
+
+msgid "Seedings"
+msgstr "播种"
+
+msgid "Transplanting"
+msgstr "移栽"
+
+msgid "Transplantings"
+msgstr "移栽"
+
+msgid "Input"
+msgstr "投入"
+
+msgid "Inputs"
+msgstr "投入"
+
+msgid "Maintenance"
+msgstr "维护"
+
+msgid "Maintenances"
+msgstr "维护"
+
+msgid "Medical"
+msgstr "医疗"
+
+msgid "Medicals"
+msgstr "医疗"
+
+msgid "Birth"
+msgstr "出生"
+
+msgid "Births"
+msgstr "出生"
+
+msgid "Lab test"
+msgstr "实验室检测"
+
+msgid "Lab tests"
+msgstr "实验室检测"
+
+# Common UI elements
+msgid "Add"
+msgstr "添加"
+
+msgid "Edit"
+msgstr "编辑"
+
+msgid "Delete"
+msgstr "删除"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "View"
+msgstr "查看"
+
+msgid "List"
+msgstr "列表"
+
+msgid "Search"
+msgstr "搜索"
+
+msgid "Filter"
+msgstr "过滤"
+
+msgid "Reset"
+msgstr "重置"
+
+msgid "Submit"
+msgstr "提交"
+
+msgid "Create"
+msgstr "创建"
+
+msgid "Update"
+msgstr "更新"
+
+msgid "Remove"
+msgstr "移除"
+
+msgid "Confirm"
+msgstr "确认"
+
+msgid "Name"
+msgstr "名称"
+
+msgid "Description"
+msgstr "描述"
+
+msgid "Date"
+msgstr "日期"
+
+msgid "Status"
+msgstr "状态"
+
+msgid "Type"
+msgstr "类型"
+
+msgid "Quantity"
+msgstr "数量"
+
+msgid "Location"
+msgstr "位置"
+
+msgid "Owner"
+msgstr "所有者"
+
+msgid "Notes"
+msgstr "备注"
+
+msgid "Archive"
+msgstr "归档"
+
+msgid "Unarchive"
+msgstr "取消归档"
+
+msgid "Active"
+msgstr "活动"
+
+msgid "Pending"
+msgstr "待处理"
+
+msgid "Completed"
+msgstr "已完成"
+
+msgid "Canceled"
+msgstr "已取消"
+
+# Navigation
+msgid "Home"
+msgstr "首页"
+
+msgid "Dashboard"
+msgstr "仪表板"
+
+msgid "Assets"
+msgstr "资产"
+
+msgid "Logs"
+msgstr "日志"
+
+msgid "Plans"
+msgstr "计划"
+
+msgid "People"
+msgstr "人员"
+
+msgid "Map"
+msgstr "地图"
+
+msgid "Reports"
+msgstr "报告"
+
+msgid "Settings"
+msgstr "设置"
+
+msgid "Configuration"
+msgstr "配置"
+
+msgid "Modules"
+msgstr "模块"
+
+msgid "Taxonomy"
+msgstr "分类"
+
+msgid "Users"
+msgstr "用户"
+
+msgid "Roles"
+msgstr "角色"
+
+msgid "Permissions"
+msgstr "权限"
+
+msgid "Import"
+msgstr "导入"
+
+msgid "Export"
+msgstr "导出"
+
+msgid "Quick forms"
+msgstr "快速表单"
+
+msgid "Help"
+msgstr "帮助"
+
+# Taxonomy
+msgid "Animal type"
+msgstr "动物类型"
+
+msgid "Plant type"
+msgstr "植物类型"
+
+msgid "Crop family"
+msgstr "作物科"
+
+msgid "Log category"
+msgstr "日志分类"
+
+msgid "Season"
+msgstr "季节"
+
+msgid "Unit"
+msgstr "单位"
+
+msgid "Material type"
+msgstr "材料类型"
+
+msgid "Equipment type"
+msgstr "设备类型"
+
+msgid "Product type"
+msgstr "产品类型"
+
+msgid "Lab"
+msgstr "实验室"
+
+msgid "Test method"
+msgstr "测试方法"
+
+# User roles
+msgid "Viewer"
+msgstr "查看者"
+
+msgid "Worker"
+msgstr "工作者"
+
+msgid "Manager"
+msgstr "管理者"
+
+msgid "Administrator"
+msgstr "管理员"
+
+msgid "Account administrator"
+msgstr "账户管理员"
+
+msgid "Configuration administrator"
+msgstr "配置管理员"
+
+# FarmUI
+msgid "Quick forms"
+msgstr "快速表单"
+
+msgid "Quick form"
+msgstr "快速表单"
+
+msgid "Movement"
+msgstr "移动"
+
+msgid "Groups"
+msgstr "群组"
+
+msgid "Birth"
+msgstr "出生"
+
+msgid "Harvest"
+msgstr "收获"
+
+msgid "Seeding"
+msgstr "播种"
+
+msgid "Transplanting"
+msgstr "移栽"
+
+msgid "Observation"
+msgstr "观察"
+
+msgid "Activity"
+msgstr "活动"
+
+msgid "Input"
+msgstr "投入"
+
+msgid "Maintenance"
+msgstr "维护"
+
+msgid "Medical"
+msgstr "医疗"
+
+msgid "Lab test"
+msgstr "实验室检测"
+
+# FarmOS modules
+msgid "farmOS Asset"
+msgstr "农场管理系统资产"
+
+msgid "Provides an asset entity type for real world record keeping."
+msgstr "提供用于现实世界记录管理的资产实体类型。"
+
+msgid "farmOS Log"
+msgstr "农场管理系统日志"
+
+msgid "Provides additional Log entity features for farmOS."
+msgstr "为农场管理系统提供额外的日志实体功能。"
+
+msgid "farmOS UI"
+msgstr "农场管理系统用户界面"
+
+msgid "Provides default farmOS UI elements (organized into sub-modules by type)."
+msgstr "提供默认的农场管理系统用户界面元素（按类型组织为子模块）。"
+
+msgid "farmOS UI Dashboard"
+msgstr "农场管理系统仪表板"
+
+msgid "Provides a farmOS dashboard."
+msgstr "提供农场管理系统的仪表板。"
+
+msgid "farmOS UI Menu"
+msgstr "农场管理系统菜单"
+
+msgid "Provides farmOS menu and toolbar overrides."
+msgstr "提供农场管理系统的菜单和工具栏覆盖。"
+
+msgid "farmOS UI Views"
+msgstr "农场管理系统视图"
+
+msgid "Provides default Views of farmOS entities."
+msgstr "提供农场管理系统实体的默认视图。"
+
+msgid "farmOS Localization"
+msgstr "农场管理系统本地化"
+
+msgid "Enables default configuration for localizing/translating farmOS."
+msgstr "启用农场管理系统的本地化/翻译默认配置。"
+
+msgid "farmOS Inventory"
+msgstr "农场管理系统库存"
+
+msgid "Adds inventory features to quantities."
+msgstr "为数量添加库存功能。"
+
+msgid "farmOS Location"
+msgstr "农场管理系统位置"
+
+msgid "Provides movement/location tracking for assets via logs."
+msgstr "通过日志为资产提供移动/位置跟踪功能。"
+
+msgid "farmOS Map"
+msgstr "农场管理系统地图"
+
+msgid "Provides farmOS map features."
+msgstr "提供农场管理系统的地图功能。"
+
+msgid "farmOS Flags"
+msgstr "农场管理系统标记"
+
+msgid "Provides a general purpose record flagging system."
+msgstr "提供通用的记录标记系统。"
+
+msgid "farmOS Login"
+msgstr "农场管理系统登录"
+
+msgid "Allows users to login via username and email."
+msgstr "允许用户通过用户名和电子邮件登录。"
+
+msgid "farmOS Setup"
+msgstr "农场管理系统设置"
+
+msgid "Provides setup pages for farmOS."
+msgstr "提供农场管理系统的设置页面。"
+
+msgid "farmOS API"
+msgstr "农场管理系统API"
+
+msgid "Provides configuration for the farmOS API."
+msgstr "提供农场管理系统的API配置。"
+
+msgid "farmOS Data Stream"
+msgstr "农场管理系统数据流"
+
+msgid "Provides a general purpose data stream entity."
+msgstr "提供通用的数据流实体。"
+
+msgid "farmOS Notification"
+msgstr "农场管理系统通知"
+
+msgid "Provides farmOS notification features."
+msgstr "提供农场管理系统的通知功能。"
+
+msgid "farmOS Comment"
+msgstr "农场管理系统评论"
+
+msgid "Adds support for comments on farmOS entities."
+msgstr "为农场管理系统实体添加评论支持。"
+
+msgid "farmOS Quick Forms"
+msgstr "农场管理系统快速表单"
+
+msgid "Provides a framework for farmOS quick forms."
+msgstr "为农场管理系统提供快速表单框架。"
+
+msgid "farmOS Report"
+msgstr "农场管理系统报告"
+
+msgid "Features for generating and displaying reports."
+msgstr "提供生成和显示报告的功能。"
+
+msgid "farmOS Import"
+msgstr "农场管理系统导入"
+
+msgid "Features for importing records."
+msgstr "提供导入记录的功能。"
+
+msgid "farmOS Export"
+msgstr "农场管理系统导出"
+
+msgid "Features for exporting records."
+msgstr "提供导出记录的功能。"
+
+msgid "farmOS Role"
+msgstr "农场管理系统角色"
+
+msgid "Provides default farmOS user roles and permissions."
+msgstr "提供默认的农场管理系统用户角色和权限。"
+
+msgid "farmOS Entity"
+msgstr "农场管理系统实体"
+
+msgid "Adds opinionated entity and field configuration to farmOS entity types."
+msgstr "为农场管理系统实体类型添加规范的实体和字段配置。"
+
+# Plant module
+msgid "Plant asset"
+msgstr "植物资产"
+
+msgid "Adds a Plant asset type."
+msgstr "添加植物资产类型。"
+
+# Animal module
+msgid "Animal asset"
+msgstr "动物资产"
+
+msgid "Adds an Animal asset type."
+msgstr "添加动物资产类型。"
+
+# Equipment module
+msgid "Equipment asset"
+msgstr "设备资产"
+
+msgid "Adds an Equipment asset type."
+msgstr "添加设备资产类型。"
+
+# Land module
+msgid "Land asset"
+msgstr "土地资产"
+
+msgid "Adds a Land asset type."
+msgstr "添加土地资产类型。"
+
+# Material module
+msgid "Material asset"
+msgstr "材料资产"
+
+msgid "Adds a Material asset type."
+msgstr "添加材料资产类型。"
+
+# Structure module
+msgid "Structure asset"
+msgstr "建筑资产"
+
+msgid "Adds a Structure asset type."
+msgstr "添加建筑资产类型。"
+
+# Sensor module
+msgid "Sensor asset"
+msgstr "传感器资产"
+
+msgid "Adds a Sensor asset type with data streams."
+msgstr "添加带数据流的传感器资产类型。"
+
+# Seed module
+msgid "Seed asset"
+msgstr "种子资产"
+
+msgid "Adds a Seed asset type."
+msgstr "添加种子资产类型。"
+
+# Group module
+msgid "Group asset"
+msgstr "群组资产"
+
+msgid "Adds a Group asset type."
+msgstr "添加群组资产类型。"
+
+# Water module
+msgid "Water asset"
+msgstr "水源资产"
+
+msgid "Adds a Water asset type."
+msgstr "添加水源资产类型。"
+
+# Compost module
+msgid "Compost asset"
+msgstr "堆肥资产"
+
+msgid "Adds a Compost asset type."
+msgstr "添加堆肥资产类型。"
+
+# Product module
+msgid "Product asset"
+msgstr "产品资产"
+
+msgid "Adds a Product asset type."
+msgstr "添加产品资产类型。"
+
+# Log modules
+msgid "Activity log"
+msgstr "活动日志"
+
+msgid "Adds an Activity log type."
+msgstr "添加活动日志类型。"
+
+msgid "Observation log"
+msgstr "观察日志"
+
+msgid "Adds an Observation log type."
+msgstr "添加观察日志类型。"
+
+msgid "Harvest log"
+msgstr "收获日志"
+
+msgid "Adds a Harvest log type."
+msgstr "添加收获日志类型。"
+
+msgid "Seeding log"
+msgstr "播种日志"
+
+msgid "Adds a Seeding log type for Plant assets."
+msgstr "添加植物资产的播种日志类型。"
+
+msgid "Transplanting log"
+msgstr "移栽日志"
+
+msgid "Adds a Transplanting log type for Plant assets."
+msgstr "添加植物资产的移栽日志类型。"
+
+msgid "Input log"
+msgstr "投入日志"
+
+msgid "Adds an Input log type."
+msgstr "添加投入日志类型。"
+
+msgid "Maintenance log"
+msgstr "维护日志"
+
+msgid "Adds a Maintenance log type for Equipment assets."
+msgstr "添加设备资产的维护日志类型。"
+
+msgid "Medical log"
+msgstr "医疗日志"
+
+msgid "Adds a Medical log type for Animal assets."
+msgstr "添加动物资产的医疗日志类型。"
+
+msgid "Birth log"
+msgstr "出生日志"
+
+msgid "Adds a Birth log type for Animal assets."
+msgstr "添加动物资产的出生日志类型。"
+
+msgid "Lab test log"
+msgstr "实验室检测日志"
+
+msgid "Adds a Lab test log type."
+msgstr "添加实验室检测日志类型。"
+
+# Quantity modules
+msgid "Farm Quantity"
+msgstr "农场管理系统数量"
+
+msgid "Provides a Quantity field type for measurement."
+msgstr "提供用于测量的数量字段类型。"
+
+msgid "Farm Quantity Standard"
+msgstr "农场管理系统标准数量"
+
+msgid "Provides a standard quantity type."
+msgstr "提供标准数量类型。"
+
+msgid "Farm Quantity Material"
+msgstr "农场管理系统材料数量"
+
+msgid "Provides a material quantity type."
+msgstr "提供材料数量类型。"
+
+# Quick modules
+msgid "Farm Quick Birth"
+msgstr "快速出生"
+
+msgid "Provides a quick form for recording animal births."
+msgstr "提供记录动物出生的快速表单。"
+
+msgid "Farm Quick Group"
+msgstr "快速群组"
+
+msgid "Provides a quick form for managing groups."
+msgstr "提供管理群组的快速表单。"
+
+msgid "Farm Quick Inventory"
+msgstr "快速库存"
+
+msgid "Provides a quick form for adjusting inventory."
+msgstr "提供调整库存的快速表单。"
+
+msgid "Farm Quick Movement"
+msgstr "快速移动"
+
+msgid "Provides a quick form for moving assets."
+msgstr "提供移动资产的快速表单。"
+
+msgid "Farm Quick Planting"
+msgstr "快速种植"
+
+msgid "Provides a quick form for planting assets."
+msgstr "提供种植资产的快速表单。"
+
+# Packages
+msgid "farmOS Assets"
+msgstr "农场管理系统资产"
+
+msgid "farmOS Logs"
+msgstr "农场管理系统日志"
+
+msgid "farmOS UI"
+msgstr "农场管理系统用户界面"
+
+msgid "farmOS Quick Form"
+msgstr "农场管理系统快速表单"
+
+msgid "farmOS Quantities"
+msgstr "农场管理系统数量"
+
+msgid "farmOS Taxonomy"
+msgstr "农场管理系统分类"
+
+msgid "farmOS Role"
+msgstr "农场管理系统角色"
+
+msgid "farmOS Organization"
+msgstr "农场管理系统组织"
+
+# Weather terms
+msgid "Weather"
+msgstr "天气"
+
+msgid "Sunny"
+msgstr "晴天"
+
+msgid "Cloudy"
+msgstr "多云"
+
+msgid "Rainy"
+msgstr "下雨"
+
+msgid "Snowy"
+msgstr "下雪"
+
+msgid "Windy"
+msgstr "大风"
+
+msgid "Foggy"
+msgstr "有雾"
+
+msgid "Temperature"
+msgstr "温度"
+
+msgid "Humidity"
+msgstr "湿度"
+
+msgid "Rainfall"
+msgstr "降雨量"
+
+# Seasons
+msgid "Spring"
+msgstr "春季"
+
+msgid "Summer"
+msgstr "夏季"
+
+msgid "Autumn"
+msgstr "秋季"
+
+msgid "Fall"
+msgstr "秋季"
+
+msgid "Winter"
+msgstr "冬季"
+
+# Units
+msgid "Kilogram"
+msgstr "千克"
+
+msgid "Gram"
+msgstr "克"
+
+msgid "Pound"
+msgstr "磅"
+
+msgid "Ounce"
+msgstr "盎司"
+
+msgid "Liter"
+msgstr "升"
+
+msgid "Milliliter"
+msgstr "毫升"
+
+msgid "Gallon"
+msgstr "加仑"
+
+msgid "Meter"
+msgstr "米"
+
+msgid "Centimeter"
+msgstr "厘米"
+
+msgid "Inch"
+msgstr "英寸"
+
+msgid "Foot"
+msgstr "英尺"
+
+msgid "Yard"
+msgstr "码"
+
+msgid "Hectare"
+msgstr "公顷"
+
+msgid "Acre"
+msgstr "英亩"
+
+msgid "Square meter"
+msgstr "平方米"
+
+msgid "Square foot"
+msgstr "平方英尺"
+
+# Validation and messages
+msgid "This field is required."
+msgstr "此字段为必填项。"
+
+msgid "Invalid value."
+msgstr "无效的值。"
+
+msgid "The operation completed successfully."
+msgstr "操作成功完成。"
+
+msgid "Are you sure you want to delete this item?"
+msgstr "您确定要删除此项目吗？"
+
+msgid "This action cannot be undone."
+msgstr "此操作无法撤销。"
+
+msgid "An error occurred while processing your request."
+msgstr "处理您的请求时发生了一个错误。"
+
+# Views
+msgid "Content"
+msgstr "内容"
+
+msgid "Content list"
+msgstr "内容列表"
+
+msgid "Recent content"
+msgstr "最近内容"
+
+msgid "People"
+msgstr "人员"
+
+msgid "People list"
+msgstr "人员列表"
+
+msgid "Recent activity"
+msgstr "最近活动"
+
+# Taxonomy
+msgid "Taxonomy"
+msgstr "分类"
+
+msgid "Taxonomy vocabulary"
+msgstr "词汇表"
+
+msgid "Taxonomy term"
+msgstr "术语"
+
+msgid "Term name"
+msgstr "术语名称"
+
+# System
+msgid "System"
+msgstr "系统"
+
+msgid "Administration"
+msgstr "管理"
+
+msgid "User"
+msgstr "用户"
+
+msgid "Users"
+msgstr "用户"
+
+msgid "Permissions"
+msgstr "权限"
+
+msgid "Roles"
+msgstr "角色"
+
+msgid "Appearance"
+msgstr "外观"
+
+msgid "Structure"
+msgstr "结构"
+
+msgid "Extend"
+msgstr "扩展"
+
+msgid "Configuration"
+msgstr "配置"
+
+msgid "People"
+msgstr "人员"
+
+msgid "Reports"
+msgstr "报告"
+
+# Time
+msgid "Today"
+msgstr "今天"
+
+msgid "Yesterday"
+msgstr "昨天"
+
+msgid "Tomorrow"
+msgstr "明天"
+
+msgid "Last week"
+msgstr "上周"
+
+msgid "This week"
+msgstr "本周"
+
+msgid "Next week"
+msgstr "下周"
+
+msgid "Last month"
+msgstr "上月"
+
+msgid "This month"
+msgstr "本月"
+
+msgid "Next month"
+msgstr "下月"
+
+msgid "Last year"
+msgstr "去年"
+
+msgid "This year"
+msgstr "今年"
+
+msgid "Next year"
+msgstr "明年"
+
+# Days
+msgid "Monday"
+msgstr "星期一"
+
+msgid "Tuesday"
+msgstr "星期二"
+
+msgid "Wednesday"
+msgstr "星期三"
+
+msgid "Thursday"
+msgstr "星期四"
+
+msgid "Friday"
+msgstr "星期五"
+
+msgid "Saturday"
+msgstr "星期六"
+
+msgid "Sunday"
+msgstr "星期日"
+
+msgid "Mon"
+msgstr "周一"
+
+msgid "Tue"
+msgstr "周二"
+
+msgid "Wed"
+msgstr "周三"
+
+msgid "Thu"
+msgstr "周四"
+
+msgid "Fri"
+msgstr "周五"
+
+msgid "Sat"
+msgstr "周六"
+
+msgid "Sun"
+msgstr "周日"
+
+# Months
+msgid "January"
+msgstr "一月"
+
+msgid "February"
+msgstr "二月"
+
+msgid "March"
+msgstr "三月"
+
+msgid "April"
+msgstr "四月"
+
+msgid "May"
+msgstr "五月"
+
+msgid "June"
+msgstr "六月"
+
+msgid "July"
+msgstr "七月"
+
+msgid "August"
+msgstr "八月"
+
+msgid "September"
+msgstr "九月"
+
+msgid "October"
+msgstr "十月"
+
+msgid "November"
+msgstr "十一月"
+
+msgid "December"
+msgstr "十二月"
+
+msgid "Jan"
+msgstr "一月"
+
+msgid "Feb"
+msgstr "二月"
+
+msgid "Mar"
+msgstr "三月"
+
+msgid "Apr"
+msgstr "四月"
+
+msgid "Jun"
+msgstr "六月"
+
+msgid "Jul"
+msgstr "七月"
+
+msgid "Aug"
+msgstr "八月"
+
+msgid "Sep"
+msgstr "九月"
+
+msgid "Oct"
+msgstr "十月"
+
+msgid "Nov"
+msgstr "十一月"
+
+msgid "Dec"
+msgstr "十二月"
+
+# Time
+msgid "Hour"
+msgstr "小时"
+
+msgid "Hours"
+msgstr "小时"
+
+msgid "Minute"
+msgstr "分钟"
+
+msgid "Minutes"
+msgstr "分钟"
+
+msgid "Second"
+msgstr "秒"
+
+msgid "Seconds"
+msgstr "秒"
+
+msgid "Day"
+msgstr "天"
+
+msgid "Days"
+msgstr "天"
+
+msgid "Week"
+msgstr "周"
+
+msgid "Weeks"
+msgstr "周"
+
+msgid "Month"
+msgstr "月"
+
+msgid "Months"
+msgstr "月"
+
+msgid "Year"
+msgstr "年"
+
+msgid "Years"
+msgstr "年"
+
+# Misc
+msgid "Yes"
+msgstr "是"
+
+msgid "No"
+msgstr "否"
+
+msgid "On"
+msgstr "开"
+
+msgid "Off"
+msgstr "关"
+
+msgid "Enabled"
+msgstr "已启用"
+
+msgid "Disabled"
+msgstr "已禁用"
+
+msgid "Public"
+msgstr "公开"
+
+msgid "Private"
+msgstr "私有"
+
+msgid "Visible"
+msgstr "可见"
+
+msgid "Hidden"
+msgstr "隐藏"
+
+msgid "Locked"
+msgstr "已锁定"
+
+msgid "Unlocked"
+msgstr "已解锁"
+
+msgid "Custom"
+msgstr "自定义"
+
+msgid "Default"
+msgstr "默认"
+
+msgid "Advanced"
+msgstr "高级"
+
+msgid "Basic"
+msgstr "基本"
+
+msgid "General"
+msgstr "常规"
+
+msgid "System"
+msgstr "系统"
+
+msgid "Tools"
+msgstr "工具"
+
+msgid "Maintenance mode"
+msgstr "维护模式"
+
+msgid "Clear cache"
+msgstr "清除缓存"
+
+msgid "Update database"
+msgstr "更新数据库"
+
+msgid "Run updates"
+msgstr "运行更新"
+
+msgid "Help"
+msgstr "帮助"
+
+msgid "Documentation"
+msgstr "文档"
+
+msgid "Support"
+msgstr "支持"
+
+msgid "Community"
+msgstr "社区"
+
+msgid "Contact"
+msgstr "联系"
+
+msgid "About"
+msgstr "关于"
+
+msgid "More information"
+msgstr "更多信息"
+
+msgid "Learn more"
+msgstr "了解更多"
+
+msgid "Terms of service"
+msgstr "服务条款"
+
+msgid "Privacy policy"
+msgstr "隐私政策"
+
+msgid "Copyright"
+msgstr "版权"
+
+msgid "All rights reserved."
+msgstr "保留所有权利。"
+
+msgid "Powered by"
+msgstr "由...提供技术支持"
+
+msgid "Built with"
+msgstr "基于...构建"
+
+msgid "Drupal"
+msgstr "Drupal"
+
+msgid "farmOS"
+msgstr "农场管理系统"
+
+msgid "Version"
+msgstr "版本"
+
+msgid "Update"
+msgstr "更新"
+
+msgid "Upgrade"
+msgstr "升级"
+
+msgid "Install"
+msgstr "安装"
+
+msgid "Uninstall"
+msgstr "卸载"
+
+msgid "Enable"
+msgstr "启用"
+
+msgid "Disable"
+msgstr "禁用"
+
+msgid "Configure"
+msgstr "配置"
+
+msgid "Permissions"
+msgstr "权限"
+
+msgid "View"
+msgstr "查看"
+
+msgid "Edit"
+msgstr "编辑"
+
+msgid "Delete"
+msgstr "删除"
+
+msgid "Create"
+msgstr "创建"
+
+msgid "Update"
+msgstr "更新"
+
+msgid "View own"
+msgstr "查看自己的"
+
+msgid "Edit own"
+msgstr "编辑自己的"
+
+msgid "Delete own"
+msgstr "删除自己的"
+
+msgid "Administer"
+msgstr "管理"
+
+msgid "Administer content"
+msgstr "管理内容"
+
+msgid "Administer users"
+msgstr "管理用户"
+
+msgid "Administer permissions"
+msgstr "管理权限"
+
+msgid "Administer site configuration"
+msgstr "管理站点配置"
+
+msgid "Administer taxonomy"
+msgstr "管理分类"
+
+msgid "Administer views"
+msgstr "管理视图"
+
+msgid "Administer menu"
+msgstr "管理菜单"
+
+msgid "Administer blocks"
+msgstr "管理区块"
+
+msgid "Administer themes"
+msgstr "管理主题"
+
+msgid "Administer modules"
+msgstr "管理模块"
+
+msgid "Bypass node access"
+msgstr "绕过内容访问控制"
+
+msgid "View published content"
+msgstr "查看已发布内容"
+
+msgid "View own unpublished content"
+msgstr "查看自己的未发布内容"
+
+msgid "Edit any content"
+msgstr "编辑任何内容"
+
+msgid "Edit own content"
+msgstr "编辑自己的内容"
+
+msgid "Delete any content"
+msgstr "删除任何内容"
+
+msgid "Delete own content"
+msgstr "删除自己的内容"
+
+msgid "Content management"
+msgstr "内容管理"
+
+msgid "Content authoring"
+msgstr "内容创作"
+
+msgid "Content editing"
+msgstr "内容编辑"
+
+msgid "Content deletion"
+msgstr "内容删除"
+
+# End of file
