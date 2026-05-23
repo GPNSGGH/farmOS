@@ -1,7 +1,7 @@
-name: Compost asset
-description: Adds a Compost asset type.
+name: 堆肥资产
+description: 添加堆肥资产类型。
 type: module
-package: farmOS Assets
+package: 农场管理系统资产
 core_version_requirement: ^11
 dependencies:
   - farm:asset

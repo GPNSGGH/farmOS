@@ -1,7 +1,7 @@
-name: Water asset
-description: Adds a Water asset type.
+name: 水源资产
+description: 添加水源资产类型。
 type: module
-package: farmOS Assets
+package: 农场管理系统资产
 core_version_requirement: ^11
 dependencies:
   - farm:asset

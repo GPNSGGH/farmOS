@@ -1,7 +1,7 @@
-name: farmOS Dashboard
-description: Provides a farmOS dashboard.
+name: 农场管理系统仪表板
+description: 提供农场管理系统的仪表板。
 type: module
-package: farmOS UI
+package: 农场管理系统用户界面
 core_version_requirement: ^11
 dependencies:
   - drupal:block

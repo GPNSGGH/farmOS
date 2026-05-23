@@ -1,7 +1,7 @@
-name: farmOS UI
-description: Provides default farmOS UI elements (organized into sub-modules by type).
+name: 农场管理系统用户界面
+description: 提供默认的农场管理系统用户界面元素（按类型组织为子模块）。
 type: module
-package: farmOS UI
+package: 农场管理系统用户界面
 core_version_requirement: ^11
 dependencies:
   - farm:farm_ui_action

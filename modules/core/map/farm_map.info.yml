@@ -1,7 +1,7 @@
-name: farmOS Map
-description: Provides farmOS map features.
+name: 农场管理系统地图
+description: 提供农场管理系统的地图功能。
 type: module
-package: farmOS
+package: 农场管理系统
 core_version_requirement: ^11
 dependencies:
   - drupal:block

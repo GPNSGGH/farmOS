@@ -1,7 +1,7 @@
-name: farmOS Localization
-description: Enables default configuration for localizing/translating farmOS.
+name: 农场管理系统本地化
+description: 启用农场管理系统的本地化/翻译默认配置。
 type: module
-package: farmOS
+package: 农场管理系统
 core_version_requirement: ^11
 dependencies:
   - drupal:config_translation

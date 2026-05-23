@@ -1,7 +1,7 @@
-name: Lab test log
-description: Adds a Lab test log type.
+name: 实验室检测日志
+description: 添加实验室检测日志类型。
 type: module
-package: farmOS Logs
+package: 农场管理系统日志
 core_version_requirement: ^11
 dependencies:
   - farm:farm_entity

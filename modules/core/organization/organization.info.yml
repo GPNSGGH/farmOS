@@ -1,7 +1,7 @@
-name: Organization
-description: Provides an organization entity type for real world record keeping.
+name: 组织
+description: 提供用于现实世界记录管理的组织实体类型。
 type: module
-package: Organization
+package: 组织
 core_version_requirement: ^11
 dependencies:
   - drupal:system

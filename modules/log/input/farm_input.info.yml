@@ -1,7 +1,7 @@
-name: Input log
-description: Adds an Input log type.
+name: 投入日志
+description: 添加投入日志类型。
 type: module
-package: farmOS Logs
+package: 农场管理系统日志
 core_version_requirement: ^11
 dependencies:
   - farm:farm_entity

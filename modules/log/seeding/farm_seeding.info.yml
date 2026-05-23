@@ -1,7 +1,7 @@
-name: Seeding log
-description: Adds a Seeding log type for Plant assets.
+name: 播种日志
+description: 添加植物资产的播种日志类型。
 type: module
-package: farmOS Logs
+package: 农场管理系统日志
 core_version_requirement: ^11
 dependencies:
   - farm:farm_entity

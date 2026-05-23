@@ -1,7 +1,7 @@
-name: Transplanting log
-description: Adds a Transplanting log type for Plant assets.
+name: 移栽日志
+description: 添加植物资产的移栽日志类型。
 type: module
-package: farmOS Logs
+package: 农场管理系统日志
 core_version_requirement: ^11
 dependencies:
   - farm:farm_entity

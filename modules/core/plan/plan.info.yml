@@ -1,7 +1,7 @@
-name: Plan
-description: Provides an plan entity type for real world record keeping.
+name: 计划
+description: 提供用于现实世界记录管理的计划实体类型。
 type: module
-package: Plan
+package: 计划
 core_version_requirement: ^11
 dependencies:
   - drupal:system

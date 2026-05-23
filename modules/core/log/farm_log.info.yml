@@ -1,7 +1,7 @@
-name: farmOS Log
-description: Provides additional Log entity features for farmOS.
+name: 农场管理系统日志
+description: 为农场管理系统提供额外的日志实体功能。
 type: module
-package: farmOS
+package: 农场管理系统
 core_version_requirement: ^11
 dependencies:
   - farm:asset

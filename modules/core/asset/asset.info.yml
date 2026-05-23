@@ -1,7 +1,7 @@
-name: Asset
-description: Provides an asset entity type for real world record keeping.
+name: 资产
+description: 提供用于现实世界记录管理的资产实体类型。
 type: module
-package: Asset
+package: 资产
 core_version_requirement: ^11
 dependencies:
   - drupal:system

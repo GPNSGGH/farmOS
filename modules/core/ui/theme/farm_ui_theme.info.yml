@@ -1,7 +1,7 @@
-name: farmOS UI Theme
-description: Install Gin theme and provide overrides for farmOS.
+name: 农场管理系统主题
+description: 安装Gin主题并为农场管理系统提供覆盖。
 type: module
-package: farmOS UI
+package: 农场管理系统用户界面
 core_version_requirement: ^11
 dependencies:
   - drupal:block

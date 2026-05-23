@@ -1,7 +1,7 @@
-name: farmOS Entity
-description: Adds opinionated entity and field configuration to farmOS entity types.
+name: 农场管理系统实体
+description: 为农场管理系统实体类型添加规范的实体和字段配置。
 type: module
-package: farmOS
+package: 农场管理系统
 core_version_requirement: ^11
 dependencies:
   - entity:entity

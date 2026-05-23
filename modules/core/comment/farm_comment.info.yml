@@ -1,7 +1,7 @@
-name: farmOS Comment
-description: Adds support for comments on farmOS entities.
+name: 农场管理系统评论
+description: 为农场管理系统实体添加评论支持。
 type: module
-package: farmOS
+package: 农场管理系统
 core_version_requirement: ^11
 dependencies:
   - drupal:comment

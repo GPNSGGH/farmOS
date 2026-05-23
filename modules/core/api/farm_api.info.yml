@@ -1,7 +1,7 @@
-name: farmOS API
-description: Provides configuration for the farmOS API.
+name: 农场管理系统API
+description: 提供农场管理系统的API配置。
 type: module
-package: farmOS
+package: 农场管理系统
 core_version_requirement: ^11
 dependencies:
   - drupal:jsonapi

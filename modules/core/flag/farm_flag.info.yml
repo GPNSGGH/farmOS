@@ -1,7 +1,7 @@
-name: farmOS Flags
-description: Provides a general purpose record flagging system.
+name: 农场管理系统标记
+description: 提供通用的记录标记系统。
 type: module
-package: farmOS
+package: 农场管理系统
 core_version_requirement: ^11
 dependencies:
   - drupal:text

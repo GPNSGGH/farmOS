@@ -1,7 +1,7 @@
-name: Plant asset
-description: Adds a Plant asset type.
+name: 植物资产
+description: 添加植物资产类型。
 type: module
-package: farmOS Assets
+package: 农场管理系统资产
 core_version_requirement: ^11
 dependencies:
   - farm:asset
