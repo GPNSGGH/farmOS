@@ -23,10 +23,13 @@ function farm_l10n_install() {
   
   // Add and configure Chinese (Simplified) language.
   if (!\Drupal::languageManager()->getLanguage('zh-hans')) {
-    $language = \Drupal\language\Entity\ConfigurableLanguage::createFromLangcode('zh-hans');
+    $language = \Drupal::language\Entity\ConfigurableLanguage::createFromLangcode('zh-hans');
     $language->save();
   }
   
   // Set Chinese (Simplified) as the default selected language.
   \Drupal::configFactory()->getEditable('language.negotiation')->set('selected_langcode', 'zh-hans')->save();
+  
+  // Rebuild the container to reflect language changes.
+  \Drupal::service('kernel')->rebuildContainer();
 }

@@ -1,0 +1,31 @@
+{
+    "name": "farmos/chinese-translation",
+    "description": "Chinese (Simplified) translation for farmOS",
+    "type": "drupal-core-translation",
+    "license": "GPL-2.0+",
+    "authors": [
+        {
+            "name": "farmOS Community",
+            "email": "support@farmos.org"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "drupal/core": "^10.0 || ^11.0"
+    },
+    "extra": {
+        "drupal-l10n-path": "translations",
+        "l10n": {
+            "overwrite": false,
+            "languages": [
+                "zh-hans"
+            ]
+        }
+    },
+    "config": {
+        "allow-plugins": {
+            "composer/installers": true
+        }
+    }
+}

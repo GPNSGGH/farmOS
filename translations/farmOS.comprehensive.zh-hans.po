@@ -1,0 +1,5701 @@
+# Chinese Simplified translation for farmOS
+# Copyright (C) 2024 farmOS Community
+# This file is distributed under the same license as the farmOS package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: farmOS 4.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-01-01 00:00+0000\n"
+"PO-Revision-Date: 2024-01-01 00:00+0000\n"
+"Last-Translator: \n"
+"Language-Team: Chinese (Simplified)\n"
+"Language: zh-hans\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# farmOS module descriptions
+msgid "Provides an asset entity type for real world record keeping."
+msgstr "为现实世界的记录管理提供资产实体类型。"
+
+msgid "Provides a log entity type for recording farm records."
+msgstr "提供日志实体类型用于记录农场数据。"
+
+msgid "Provides farmOS dashboard functionality."
+msgstr "提供农场管理系统仪表板功能。"
+
+msgid "Provides farmOS location tracking."
+msgstr "提供农场管理系统位置追踪。"
+
+msgid "Provides farmOS inventory tracking."
+msgstr "提供农场管理系统库存追踪。"
+
+msgid "Provides farmOS map functionality."
+msgstr "提供农场管理系统地图功能。"
+
+msgid "Provides farmOS API functionality."
+msgstr "提供农场管理系统API功能。"
+
+msgid "Provides farmOS CSV import functionality."
+msgstr "提供农场管理系统CSV导入功能。"
+
+msgid "Provides farmOS CSV export functionality."
+msgstr "提供农场管理系统CSV导出功能。"
+
+msgid "Provides farmOS quick forms functionality."
+msgstr "提供农场管理系统快速表单功能。"
+
+msgid "Provides farmOS login functionality."
+msgstr "提供农场管理系统登录功能。"
+
+msgid "Provides farmOS setup wizard functionality."
+msgstr "提供农场管理系统设置向导功能。"
+
+msgid "Provides farmOS data stream functionality."
+msgstr "提供农场管理系统数据流功能。"
+
+msgid "Provides farmOS quantity tracking."
+msgstr "提供农场管理系统数量追踪。"
+
+msgid "Provides farmOS quantity material tracking."
+msgstr "提供农场管理系统材料数量追踪。"
+
+msgid "Provides farmOS quantity standard tracking."
+msgstr "提供农场管理系统标准数量追踪。"
+
+msgid "Provides farmOS observation log type."
+msgstr "提供农场管理系统观察日志类型。"
+
+msgid "Provides farmOS activity log type."
+msgstr "提供农场管理系统活动日志类型。"
+
+msgid "Provides farmOS harvest log type."
+msgstr "提供农场管理系统收获日志类型。"
+
+msgid "Provides farmOS input log type."
+msgstr "提供农场管理系统投入日志类型。"
+
+msgid "Provides farmOS seeding log type."
+msgstr "提供农场管理系统播种日志类型。"
+
+msgid "Provides farmOS transplanting log type."
+msgstr "提供农场管理系统移栽日志类型。"
+
+msgid "Provides farmOS medical log type."
+msgstr "提供农场管理系统医疗日志类型。"
+
+msgid "Provides farmOS birth log type."
+msgstr "提供农场管理系统出生日志类型。"
+
+msgid "Provides farmOS maintenance log type."
+msgstr "提供农场管理系统维护日志类型。"
+
+msgid "Provides farmOS lab test log type."
+msgstr "提供农场管理系统实验室检测日志类型。"
+
+msgid "Provides farmOS animal asset type."
+msgstr "提供农场管理系统动物资产类型。"
+
+msgid "Provides farmOS plant asset type."
+msgstr "提供农场管理系统植物资产类型。"
+
+msgid "Provides farmOS land asset type."
+msgstr "提供农场管理系统土地资产类型。"
+
+msgid "Provides farmOS equipment asset type."
+msgstr "提供农场管理系统设备资产类型。"
+
+msgid "Provides farmOS group asset type."
+msgstr "提供农场管理系统群组资产类型。"
+
+msgid "Provides farmOS sensor asset type."
+msgstr "提供农场管理系统传感器资产类型。"
+
+msgid "Provides farmOS material asset type."
+msgstr "提供农场管理系统材料资产类型。"
+
+msgid "Provides farmOS seed asset type."
+msgstr "提供农场管理系统种子资产类型。"
+
+msgid "Provides farmOS structure asset type."
+msgstr "提供农场管理系统建筑资产类型。"
+
+msgid "Provides farmOS water asset type."
+msgstr "提供农场管理系统水源资产类型。"
+
+msgid "Provides farmOS compost asset type."
+msgstr "提供农场管理系统堆肥资产类型。"
+
+msgid "Provides farmOS product asset type."
+msgstr "提供农场管理系统产品资产类型。"
+
+msgid "Provides farmOS farm organization type."
+msgstr "提供农场管理系统农场组织类型。"
+
+msgid "Enables default configuration for localizing/translating farmOS."
+msgstr "启用农场管理系统的本地化/翻译默认配置。"
+
+msgid "Provides farmOS help functionality."
+msgstr "提供农场管理系统帮助功能。"
+
+msgid "Provides farmOS views functionality."
+msgstr "提供农场管理系统视图功能。"
+
+msgid "Provides farmOS UI functionality."
+msgstr "提供农场管理系统用户界面功能。"
+
+msgid "Provides farmOS role functionality."
+msgstr "提供农场管理系统角色功能。"
+
+# farmOS UI strings
+msgid "Welcome to farmOS"
+msgstr "欢迎使用农场管理系统"
+
+msgid "Welcome to your new farmOS site!"
+msgstr "欢迎来到您的新农场管理系统网站！"
+
+msgid "Getting started with farmOS"
+msgstr "开始使用农场管理系统"
+
+msgid "farmOS Dashboard"
+msgstr "农场管理系统仪表板"
+
+msgid "Quick Dashboard"
+msgstr "快速仪表板"
+
+msgid "Recent Activity"
+msgstr "最近活动"
+
+msgid "Recent observations"
+msgstr "最近观察"
+
+msgid "Recent harvests"
+msgstr "最近收获"
+
+msgid "Assets by type"
+msgstr "按类型分类的资产"
+
+msgid "Logs by type"
+msgstr "按类型分类的日志"
+
+msgid "Total assets"
+msgstr "资产总数"
+
+msgid "Total logs"
+msgstr "日志总数"
+
+msgid "Asset inventory"
+msgstr "资产库存"
+
+msgid "Inventory summary"
+msgstr "库存摘要"
+
+msgid "Low inventory"
+msgstr "低库存"
+
+msgid "Out of stock"
+msgstr "缺货"
+
+msgid "In stock"
+msgstr "有库存"
+
+msgid "Adjust inventory"
+msgstr "调整库存"
+
+msgid "Current quantity"
+msgstr "当前数量"
+
+msgid "Minimum quantity"
+msgstr "最小数量"
+
+msgid "Maximum quantity"
+msgstr "最大数量"
+
+msgid "Transfer"
+msgstr "转移"
+
+msgid "Transfer to"
+msgstr "转移到"
+
+msgid "Transfer from"
+msgstr "从...转移"
+
+msgid "Inventory transfer"
+msgstr "库存转移"
+
+msgid "Inventory adjustment"
+msgstr "库存调整"
+
+msgid "Adjustment reason"
+msgstr "调整原因"
+
+msgid "Loss"
+msgstr "损耗"
+
+msgid "Theft"
+msgstr "盗窃"
+
+msgid "Damage"
+msgstr "损坏"
+
+msgid "Consumption"
+msgstr "消耗"
+
+msgid "Production"
+msgstr "生产"
+
+msgid "Purchase"
+msgstr "购买"
+
+msgid "Found"
+msgstr "发现"
+
+msgid "Count"
+msgstr "计数"
+
+msgid "Physical count"
+msgstr "实际计数"
+
+# Location strings
+msgid "Location"
+msgstr "位置"
+
+msgid "Locations"
+msgstr "位置"
+
+msgid "Add location"
+msgstr "添加位置"
+
+msgid "Edit location"
+msgstr "编辑位置"
+
+msgid "Delete location"
+msgstr "删除位置"
+
+msgid "Assign location"
+msgstr "分配位置"
+
+msgid "Remove location"
+msgstr "移除位置"
+
+msgid "Current location"
+msgstr "当前位置"
+
+msgid "Previous location"
+msgstr "先前位置"
+
+msgid "Location history"
+msgstr "位置历史"
+
+msgid "Location tracking"
+msgstr "位置追踪"
+
+msgid "Movement"
+msgstr "移动"
+
+msgid "Movement log"
+msgstr "移动日志"
+
+msgid "Record movement"
+msgstr "记录移动"
+
+msgid "Move here"
+msgstr "移动到这里"
+
+msgid "Location ID"
+msgstr "位置ID"
+
+msgid "Location type"
+msgstr "位置类型"
+
+msgid "GeoJSON"
+msgstr "地理JSON"
+
+msgid "Geometry"
+msgstr "几何形状"
+
+msgid "Polygon"
+msgstr "多边形"
+
+msgid "Point"
+msgstr "点"
+
+msgid "Line"
+msgstr "线条"
+
+msgid "MultiPolygon"
+msgstr "多边形集合"
+
+msgid "MultiLineString"
+msgstr "多线条"
+
+msgid "MultiPoint"
+msgstr "多点"
+
+msgid "Coordinates"
+msgstr "坐标"
+
+msgid "Latitude"
+msgstr "纬度"
+
+msgid "Longitude"
+msgstr "经度"
+
+msgid "WKT"
+msgstr "著名文本"
+
+msgid "Area"
+msgstr "面积"
+
+msgid "Area unit"
+msgstr "面积单位"
+
+msgid "Hectare"
+msgstr "公顷"
+
+msgid "Acre"
+msgstr "英亩"
+
+msgid "Square meter"
+msgstr "平方米"
+
+msgid "Square feet"
+msgstr "平方英尺"
+
+msgid "Perimeter"
+msgstr "周长"
+
+msgid "Centroid"
+msgstr "质心"
+
+# Asset specific strings
+msgid "Asset"
+msgstr "资产"
+
+msgid "Assets"
+msgstr "资产"
+
+msgid "Asset type"
+msgstr "资产类型"
+
+msgid "Asset ID"
+msgstr "资产ID"
+
+msgid "Asset name"
+msgstr "资产名称"
+
+msgid "Asset details"
+msgstr "资产详情"
+
+msgid "Add asset"
+msgstr "添加资产"
+
+msgid "Edit asset"
+msgstr "编辑资产"
+
+msgid "Delete asset"
+msgstr "删除资产"
+
+msgid "View asset"
+msgstr "查看资产"
+
+msgid "Create asset"
+msgstr "创建资产"
+
+msgid "Asset created"
+msgstr "资产已创建"
+
+msgid "Asset updated"
+msgstr "资产已更新"
+
+msgid "Asset deleted"
+msgstr "资产已删除"
+
+msgid "Asset archived"
+msgstr "资产已归档"
+
+msgid "Asset unarchived"
+msgstr "资产已取消归档"
+
+msgid "No assets found"
+msgstr "未找到资产"
+
+msgid "Select asset"
+msgstr "选择资产"
+
+msgid "Select assets"
+msgstr "选择资产"
+
+msgid "Select asset type"
+msgstr "选择资产类型"
+
+msgid "All asset types"
+msgstr "所有资产类型"
+
+msgid "Asset reference"
+msgstr "资产参考"
+
+msgid "Parent asset"
+msgstr "父资产"
+
+msgid "Child assets"
+msgstr "子资产"
+
+msgid "Child asset"
+msgstr "子资产"
+
+msgid "Group membership"
+msgstr "群组成员资格"
+
+msgid "Group members"
+msgstr "群组成员"
+
+msgid "Add to group"
+msgstr "添加到群组"
+
+msgid "Remove from group"
+msgstr "从群组移除"
+
+msgid "Add member"
+msgstr "添加成员"
+
+msgid "Remove member"
+msgstr "移除成员"
+
+msgid "Member of"
+msgstr "所属群组"
+
+msgid "Assigned assets"
+msgstr "分配的资产"
+
+msgid "Assigned to"
+msgstr "分配给"
+
+# Animal specific
+msgid "Birth date"
+msgstr "出生日期"
+
+msgid "Sex"
+msgstr "性别"
+
+msgid "Male"
+msgstr "雄性"
+
+msgid "Female"
+msgstr "雌性"
+
+msgid "Unknown"
+msgstr "未知"
+
+msgid "Breed"
+msgstr "品种"
+
+msgid "Species"
+msgstr "物种"
+
+msgid "Tag number"
+msgstr "标签号"
+
+msgid "ID tags"
+msgstr "ID标签"
+
+msgid "Add ID tag"
+msgstr "添加ID标签"
+
+msgid "Remove ID tag"
+str "移除ID标签"
+
+msgid "Parent animal"
+msgstr "母动物"
+
+msgid " sire"
+msgstr "父亲"
+
+msgid "Dam"
+msgstr "母亲"
+
+# Plant specific
+msgid "Planting date"
+msgstr "种植日期"
+
+msgid "Spacing"
+msgstr "间距"
+
+msgid "Spacing unit"
+msgstr "间距单位"
+
+msgid "Row spacing"
+msgstr "行距"
+
+msgid "Plant spacing"
+msgstr "株距"
+
+msgid "Depth"
+msgstr "深度"
+
+msgid "Seed spacing"
+msgstr "种子间距"
+
+msgid "Maturity days"
+msgstr "成熟天数"
+
+msgid "Harvest days"
+msgstr "收获天数"
+
+msgid "Expected harvest"
+msgstr "预计收获"
+
+msgid "Companion plants"
+msgstr "伴生植物"
+
+msgid "Crop family"
+msgstr "作物科"
+
+msgid "Variety"
+msgstr "品种"
+
+msgid "Cultivar"
+msgstr "栽培品种"
+
+msgid "Seed source"
+msgstr "种子来源"
+
+msgid "Germination rate"
+msgstr "发芽率"
+
+msgid "Transplant date"
+msgstr "移栽日期"
+
+msgid "End of life"
+msgstr "生命结束"
+
+msgid "Last harvest"
+msgstr "最后收获"
+
+# Log specific strings
+msgid "Log"
+msgstr "日志"
+
+msgid "Logs"
+msgstr "日志"
+
+msgid "Log type"
+msgstr "日志类型"
+
+msgid "Log ID"
+msgstr "日志ID"
+
+msgid "Log name"
+msgstr "日志名称"
+
+msgid "Log details"
+msgstr "日志详情"
+
+msgid "Add log"
+msgstr "添加日志"
+
+msgid "Edit log"
+msgstr "编辑日志"
+
+msgid "Delete log"
+msgstr "删除日志"
+
+msgid "View log"
+msgstr "查看日志"
+
+msgid "Create log"
+msgstr "创建日志"
+
+msgid "Log created"
+msgstr "日志已创建"
+
+msgid "Log updated"
+msgstr "日志已更新"
+
+msgid "Log deleted"
+msgstr "日志已删除"
+
+msgid "No logs found"
+msgstr "未找到日志"
+
+msgid "Select log"
+msgstr "选择日志"
+
+msgid "Select logs"
+msgstr "选择日志"
+
+msgid "Select log type"
+msgstr "选择日志类型"
+
+msgid "All log types"
+msgstr "所有日志类型"
+
+msgid "Log category"
+msgstr "日志分类"
+
+msgid "Log categories"
+msgstr "日志分类"
+
+msgid "Log reference"
+msgstr "日志参考"
+
+msgid "Log entry"
+msgstr "日志条目"
+
+msgid "Log entries"
+msgstr "日志条目"
+
+msgid "Related logs"
+msgstr "相关日志"
+
+msgid "Recent logs"
+msgstr "最近日志"
+
+msgid "Pending review"
+msgstr "待审核"
+
+msgid "Ready for review"
+msgstr "准备审核"
+
+msgid "Needs attention"
+msgstr "需要关注"
+
+msgid "Follow up"
+msgstr "跟进"
+
+msgid "Follow-up"
+msgstr "跟进"
+
+# Observation specific
+msgid "Observation"
+msgstr "观察"
+
+msgid "Observations"
+msgstr "观察"
+
+msgid "Record observation"
+msgstr "记录观察"
+
+msgid "What did you observe?"
+msgstr "您观察到了什么？"
+
+msgid "Observation details"
+msgstr "观察详情"
+
+msgid "Weather"
+msgstr "天气"
+
+msgid "Weather conditions"
+msgstr "天气状况"
+
+msgid "Temperature"
+msgstr "温度"
+
+msgid "Humidity"
+msgstr "湿度"
+
+msgid "Rainfall"
+msgstr "降雨量"
+
+msgid "Wind speed"
+msgstr "风速"
+
+msgid "Sunny"
+msgstr "晴天"
+
+msgid "Cloudy"
+msgstr "多云"
+
+msgid "Rainy"
+msgstr "下雨"
+
+msgid "Stormy"
+msgstr "暴风雨"
+
+msgid "Windy"
+msgstr "大风"
+
+msgid "Foggy"
+msgstr "有雾"
+
+msgid "Snowy"
+msgstr "下雪"
+
+msgid "Clear"
+msgstr "晴朗"
+
+msgid "Partly cloudy"
+msgstr "局部多云"
+
+msgid "Overcast"
+msgstr "阴天"
+
+msgid "Pest observed"
+msgstr "观察到的害虫"
+
+msgid "Disease observed"
+msgstr "观察到的疾病"
+
+msgid "Growth stage"
+msgstr "生长阶段"
+
+msgid "Seedling"
+msgstr "幼苗"
+
+msgid "Vegetative"
+msgstr "营养期"
+
+msgid "Flowering"
+msgstr "开花期"
+
+msgid "Fruiting"
+msgstr "结果期"
+
+msgid "Ripening"
+msgstr "成熟期"
+
+msgid "Dormant"
+msgstr "休眠期"
+
+msgid "General condition"
+msgstr "总体状况"
+
+msgid "Healthy"
+msgstr "健康"
+
+msgid "Stressed"
+msgstr "受胁迫"
+
+msgid "Diseased"
+msgstr "有病"
+
+msgid "Damaged"
+msgstr "受损"
+
+msgid "Dead"
+msgstr "死亡"
+
+msgid "Pest damage level"
+msgstr "虫害程度"
+
+msgid "None"
+msgstr "无"
+
+msgid "Minor"
+msgstr "轻微"
+
+msgid "Moderate"
+msgstr "中等"
+
+msgid "Severe"
+msgstr "严重"
+
+# Harvest specific
+msgid "Harvest"
+msgstr "收获"
+
+msgid "Harvests"
+msgstr "收获"
+
+msgid "Record harvest"
+msgstr "记录收获"
+
+msgid "What did you harvest?"
+msgstr "您收获了什么？"
+
+msgid "Harvest details"
+msgstr "收获详情"
+
+msgid "Harvest quantity"
+msgstr "收获数量"
+
+msgid "Harvest weight"
+msgstr "收获重量"
+
+msgid "Harvest volume"
+msgstr "收获体积"
+
+msgid "Total harvest"
+msgstr "总收获"
+
+msgid "Yield"
+msgstr "产量"
+
+msgid "Quality"
+msgstr "质量"
+
+msgid "Grade"
+msgstr "等级"
+
+msgid "Grade A"
+msgstr "A级"
+
+msgid "Grade B"
+msgstr "B级"
+
+msgid "Grade C"
+msgstr "C级"
+
+msgid "Ungraded"
+msgstr "未分级"
+
+msgid "Storage location"
+msgstr "存储位置"
+
+msgid "Storage method"
+msgstr "存储方法"
+
+msgid "Fresh"
+msgstr "新鲜"
+
+msgid "Dried"
+msgstr "干燥"
+
+msgid "Frozen"
+msgstr "冷冻"
+
+msgid "Canned"
+msgstr "罐装"
+
+msgid "Processed"
+msgstr "加工"
+
+msgid "Destination"
+msgstr "目的地"
+
+msgid "Sales"
+msgstr "销售"
+
+msgid "Personal use"
+msgstr "个人使用"
+
+msgid "Gift"
+msgstr "赠送"
+
+msgid "Seed stock"
+msgstr "种子库存"
+
+msgid "Animal feed"
+msgstr "动物饲料"
+
+msgid "Composting"
+msgstr "堆肥"
+
+msgid "Waste"
+msgstr "浪费"
+
+msgid "Other"
+msgstr "其他"
+
+# Input specific
+msgid "Input"
+msgstr "投入"
+
+msgid "Inputs"
+msgstr "投入"
+
+msgid "Record input"
+msgstr "记录投入"
+
+msgid "What did you input?"
+msgstr "您投入了什么？"
+
+msgid "Input details"
+msgstr "投入详情"
+
+msgid "Input type"
+msgstr "投入类型"
+
+msgid "Fertilizer"
+msgstr "肥料"
+
+msgid "Organic fertilizer"
+msgstr "有机肥"
+
+msgid "Synthetic fertilizer"
+msgstr "化肥"
+
+msgid "Compost"
+msgstr "堆肥"
+
+msgid "Manure"
+msgstr "粪便"
+
+msgid "Mulch"
+msgstr "覆盖物"
+
+msgid "Pesticide"
+msgstr "农药"
+
+msgid "Herbicide"
+msgstr "除草剂"
+
+msgid "Fungicide"
+msgstr "杀菌剂"
+
+msgid "Insecticide"
+msgstr "杀虫剂"
+
+msgid "Biological control"
+msgstr "生物防治"
+
+msgid "Water"
+msgstr "水"
+
+msgid "Irrigation"
+msgstr "灌溉"
+
+msgid "Seed"
+msgstr "种子"
+
+msgid "Plant material"
+msgstr "植物材料"
+
+msgid "Animal material"
+msgstr "动物材料"
+
+msgid "Fuel"
+msgstr "燃料"
+
+msgid "Electricity"
+msgstr "电力"
+
+msgid "Labor"
+msgstr "劳动力"
+
+msgid "Equipment use"
+msgstr "设备使用"
+
+msgid "Application method"
+msgstr "施用方法"
+
+msgid "Broadcast"
+msgstr "撒播"
+
+msgid "Foliar spray"
+msgstr "叶面喷施"
+
+msgid "Drip irrigation"
+msgstr "滴灌"
+
+msgid "Side dressing"
+msgstr "侧施"
+
+msgid "Soil incorporation"
+msgstr "土壤掺入"
+
+msgid "Injection"
+msgstr "注射"
+
+msgid "Seed treatment"
+msgstr "种子处理"
+
+msgid "Rate"
+msgstr "比率"
+
+msgid "Application rate"
+msgstr "施用比率"
+
+msgid "Dosage"
+msgstr "剂量"
+
+msgid "Concentration"
+msgstr "浓度"
+
+msgid "Dilution"
+msgstr "稀释"
+
+msgid "Active ingredient"
+msgstr "有效成分"
+
+msgid "Manufacturer"
+msgstr "制造商"
+
+msgid "Product name"
+msgstr "产品名称"
+
+msgid "Lot number"
+msgstr "批号"
+
+msgid "Expiration date"
+msgstr "到期日期"
+
+msgid "Pre-harvest interval"
+msgstr "收获前间隔"
+
+msgid "Re-entry interval"
+msgstr "再入间隔"
+
+# Activity specific
+msgid "Activity"
+msgstr "活动"
+
+msgid "Activities"
+msgstr "活动"
+
+msgid "Record activity"
+msgstr "记录活动"
+
+msgid "What activity did you perform?"
+msgstr "您执行了什么活动？"
+
+msgid "Activity details"
+msgstr "活动详情"
+
+msgid "Activity type"
+msgstr "活动类型"
+
+msgid "Tillage"
+msgstr "耕作"
+
+msgid "Planting"
+msgstr "种植"
+
+msgid "Weeding"
+msgstr "除草"
+
+msgid "Pruning"
+msgstr "修剪"
+
+msgid "Irrigation"
+msgstr "灌溉"
+
+msgid "Monitoring"
+msgstr "监测"
+
+msgid "Scouting"
+msgstr "侦察"
+
+msgid "Inspection"
+msgstr "检查"
+
+msgid "Maintenance"
+msgstr "维护"
+
+msgid "Repair"
+msgstr "修理"
+
+msgid "Cleaning"
+msgstr "清洁"
+
+msgid "Construction"
+msgstr "建设"
+
+msgid "Fencing"
+msgstr "围栏"
+
+msgid "Drainage"
+msgstr "排水"
+
+msgid "Composting"
+msgstr "堆肥"
+
+msgid "Animal care"
+msgstr "动物护理"
+
+msgid "Feeding"
+msgstr "喂养"
+
+msgid "Milking"
+msgstr "挤奶"
+
+msgid "Grooming"
+msgstr "梳理"
+
+msgid "Training"
+msgstr "训练"
+
+msgid "Breeding"
+msgstr "育种"
+
+msgid "Transportation"
+msgstr "运输"
+
+msgid "Storage"
+msgstr "存储"
+
+msgid "Packaging"
+msgstr "包装"
+
+msgid "Marketing"
+msgstr "营销"
+
+msgid "Sales"
+msgstr "销售"
+
+msgid "Administrative"
+msgstr "行政"
+
+msgid "Planning"
+msgstr "计划"
+
+msgid "Meeting"
+msgstr "会议"
+
+msgid "Training"
+msgstr "培训"
+
+msgid "Education"
+msgstr "教育"
+
+msgid "Research"
+msgstr "研究"
+
+msgid "Experiment"
+msgstr "实验"
+
+msgid "Documentation"
+msgstr "文档"
+
+msgid "Planning"
+msgstr "规划"
+
+# Seeding specific
+msgid "Seeding"
+msgstr "播种"
+
+msgid "Seedings"
+msgstr "播种"
+
+msgid "Record seeding"
+msgstr "记录播种"
+
+msgid "What did you plant?"
+msgstr "您种了什么？"
+
+msgid "Seeding details"
+msgstr "播种详情"
+
+msgid "Seeding quantity"
+msgstr "播种数量"
+
+msgid "Seeding rate"
+msgstr "播种率"
+
+msgid "Seeding method"
+msgstr "播种方法"
+
+msgid "Direct seeding"
+msgstr "直播"
+
+msgid "Transplanting"
+msgstr "移栽"
+
+msgid "Broadcast seeding"
+msgstr "撒播"
+
+msgid "Row seeding"
+msgstr "条播"
+
+msgid "Hole seeding"
+msgstr "穴播"
+
+msgid "Precision seeding"
+msgstr "精密播种"
+
+msgid "Seed depth"
+msgstr "播种深度"
+
+msgid "Row spacing"
+msgstr "行距"
+
+msgid "Plants per hill"
+msgstr "每穴株数"
+
+msgid "Seeding density"
+msgstr "播种密度"
+
+msgid "Target spacing"
+msgstr "目标间距"
+
+msgid "Plants to seed"
+msgstr "要种的植物"
+
+msgid "Seeded assets"
+msgstr "播种的资产"
+
+msgid "Assets seeded"
+msgstr "已播种的资产"
+
+# Transplanting specific
+msgid "Transplanting"
+msgstr "移栽"
+
+msgid "Record transplanting"
+msgstr "记录移栽"
+
+msgid "Transplant from"
+msgstr "从...移栽"
+
+msgid "Transplant to"
+msgstr "移栽到"
+
+msgid "Transplanting details"
+msgstr "移栽详情"
+
+msgid "Transplant date"
+msgstr "移栽日期"
+
+msgid "Plants transplanted"
+msgstr "已移栽植物"
+
+msgid "Survival rate"
+msgstr "存活率"
+
+msgid "Hardening off"
+msgstr "炼苗"
+
+msgid "Hardened off"
+msgstr "已炼苗"
+
+msgid "Not hardened"
+msgstr "未炼苗"
+
+# Medical specific
+msgid "Medical"
+msgstr "医疗"
+
+msgid "Medical record"
+msgstr "医疗记录"
+
+msgid "Record medical treatment"
+msgstr "记录医疗"
+
+msgid "Medical details"
+msgstr "医疗详情"
+
+msgid "Treatment"
+msgstr "治疗"
+
+msgid "Treatment type"
+msgstr "治疗类型"
+
+msgid "Vaccination"
+msgstr "疫苗接种"
+
+msgid "Deworming"
+msgstr "驱虫"
+
+msgid "Medication"
+msgstr "用药"
+
+msgid "Surgery"
+msgstr "手术"
+
+msgid "Physical exam"
+msgstr "体检"
+
+msgid "Dental care"
+msgstr "牙科护理"
+
+msgid "Hoof care"
+msgstr "蹄部护理"
+
+msgid "Wound care"
+msgstr "伤口护理"
+
+msgid "Diagnosis"
+msgstr "诊断"
+
+msgid "Symptoms"
+msgstr "症状"
+
+msgid "Prescription"
+msgstr "处方"
+
+msgid "Medication name"
+msgstr "药物名称"
+
+msgid "Dosage"
+msgstr "剂量"
+
+msgid "Administration route"
+msgstr "给药途径"
+
+msgid "Oral"
+msgstr "口服"
+
+msgid "Injection"
+msgstr "注射"
+
+msgid "Topical"
+msgstr "外用"
+
+msgid "Duration"
+msgstr "持续时间"
+
+msgid "Frequency"
+msgstr "频率"
+
+msgid "Once"
+msgstr "一次"
+
+msgid "Daily"
+msgstr "每日"
+
+msgid "Weekly"
+msgstr "每周"
+
+msgid "Monthly"
+msgstr "每月"
+
+msgid "As needed"
+msgstr "按需"
+
+msgid "Side effects"
+msgstr "副作用"
+
+msgid "Withdrawal period"
+msgstr "休药期"
+
+msgid "Veterinarian"
+msgstr "兽医"
+
+msgid "Animal hospital"
+msgstr "动物医院"
+
+msgid "Cost"
+msgstr "费用"
+
+# Birth specific
+msgid "Birth"
+msgstr "出生"
+
+msgid "Births"
+msgstr "出生"
+
+msgid "Record birth"
+msgstr "记录出生"
+
+msgid "Birth details"
+msgstr "出生详情"
+
+msgid "Birth date"
+msgstr "出生日期"
+
+msgid "Birth time"
+msgstr "出生时间"
+
+msgid "Number born"
+msgstr "出生数量"
+
+msgid "Live births"
+msgstr "活产"
+
+msgid "Stillbirths"
+msgstr "死产"
+
+msgid "Birth weight"
+msgstr "出生体重"
+
+msgid "Birth complications"
+msgstr "出生并发症"
+
+msgid "Dystocia"
+msgstr "难产"
+
+msgid "Normal birth"
+msgstr "正常分娩"
+
+msgid "Assisted birth"
+msgstr "辅助分娩"
+
+msgid "Cesarean section"
+msgstr "剖腹产"
+
+msgid "Mother"
+msgstr "母亲"
+
+msgid "Sire"
+msgstr "父亲"
+
+msgid "Offspring"
+msgstr "后代"
+
+msgid "Offspring created"
+msgstr "已创建后代"
+
+msgid "Bonding"
+msgstr " bonding"
+
+msgid "Nursing"
+msgstr "哺乳"
+
+msgid "Weaning"
+msgstr "断奶"
+
+msgid "Colostrum"
+msgstr "初乳"
+
+msgid "Milk feeding"
+msgstr "牛奶喂养"
+
+msgid "Bottle feeding"
+msgstr "奶瓶喂养"
+
+msgid "Foster mother"
+msgstr "寄养母亲"
+
+# Lab test specific
+msgid "Lab test"
+msgstr "实验室检测"
+
+msgid "Lab tests"
+msgstr "实验室检测"
+
+msgid "Record lab test"
+msgstr "记录实验室检测"
+
+msgid "Lab test details"
+msgstr "实验室检测详情"
+
+msgid "Test type"
+msgstr "测试类型"
+
+msgid "Test method"
+msgstr "测试方法"
+
+msgid "Test result"
+msgstr "测试结果"
+
+msgid "Test date"
+msgstr "测试日期"
+
+msgid "Sample date"
+msgstr "采样日期"
+
+msgid "Sample type"
+msgstr "样本类型"
+
+msgid "Soil test"
+msgstr "土壤检测"
+
+msgid "Water test"
+msgstr "水质检测"
+
+msgid "Plant tissue test"
+msgstr "植物组织检测"
+
+msgid "Feed test"
+msgstr "饲料检测"
+
+msgid "Blood test"
+msgstr "血液检测"
+
+msgid "Milk test"
+msgstr "牛奶检测"
+
+msgid "Manure test"
+msgstr "粪便检测"
+
+msgid "Compost test"
+msgstr "堆肥检测"
+
+msgid "Pathogen test"
+msgstr "病原体检测"
+
+msgid "pH"
+msgstr "酸碱度"
+
+msgid "Nitrogen"
+msgstr "氮"
+
+msgid "Phosphorus"
+msgstr "磷"
+
+msgid "Potassium"
+msgstr "钾"
+
+msgid "Organic matter"
+msgstr "有机质"
+
+msgid "Calcium"
+msgstr "钙"
+
+msgid "Magnesium"
+msgstr "镁"
+
+msgid "Sulfur"
+msgstr "硫"
+
+msgid "Iron"
+msgstr "铁"
+
+msgid "Manganese"
+msgstr "锰"
+
+msgid "Zinc"
+msgstr "锌"
+
+msgid "Copper"
+msgstr "铜"
+
+msgid "Boron"
+msgstr "硼"
+
+msgid "Molybdenum"
+msgstr "钼"
+
+msgid "Salinity"
+msgstr "盐度"
+
+msgid "EC"
+msgstr "电导率"
+
+msgid "TDS"
+msgstr "总溶解固体"
+
+msgid "Dissolved oxygen"
+msgstr "溶解氧"
+
+msgid "BOD"
+msgstr "生化需氧量"
+
+msgid "COD"
+msgstr "化学需氧量"
+
+msgid "Coliform"
+msgstr "大肠菌群"
+
+msgid "E. coli"
+msgstr "大肠杆菌"
+
+msgid "Salmonella"
+msgstr "沙门氏菌"
+
+msgid "Listeria"
+msgstr "李斯特菌"
+
+msgid "Lab"
+msgstr "实验室"
+
+msgid "Lab name"
+msgstr "实验室名称"
+
+msgid "Lab report"
+msgstr "实验室报告"
+
+msgid "Upload lab report"
+msgstr "上传实验室报告"
+
+msgid "Reference number"
+msgstr "参考编号"
+
+msgid "Result"
+msgstr "结果"
+
+msgid "Positive"
+msgstr "阳性"
+
+msgid "Negative"
+msgstr "阴性"
+
+msgid "Inconclusive"
+msgstr "不确定"
+
+msgid "Optimal"
+msgstr "最佳"
+
+msgid "Low"
+msgstr "低"
+
+msgid "High"
+msgstr "高"
+
+msgid "Deficient"
+msgstr "缺乏"
+
+msgid "Sufficient"
+msgstr "充足"
+
+msgid "Excess"
+msgstr "过量"
+
+msgid "Toxic"
+msgstr "有毒"
+
+msgid "Within range"
+msgstr "范围内"
+
+msgid "Out of range"
+msgstr "范围外"
+
+# Quantity specific
+msgid "Quantity"
+msgstr "数量"
+
+msgid "Quantities"
+msgstr "数量"
+
+msgid "Quantity type"
+msgstr "数量类型"
+
+msgid "Quantity value"
+msgstr "数量值"
+
+msgid "Quantity unit"
+msgstr "数量单位"
+
+msgid "Standard quantity"
+msgstr "标准数量"
+
+msgid "Material quantity"
+msgstr "材料数量"
+
+msgid "Weight"
+msgstr "重量"
+
+msgid "Volume"
+msgstr "体积"
+
+msgid "Length"
+msgstr "长度"
+
+msgid "Count"
+msgstr "计数"
+
+msgid "Percentage"
+msgstr "百分比"
+
+msgid "Ratio"
+msgstr "比率"
+
+msgid "Rate"
+msgstr "比率"
+
+msgid "Per"
+msgstr "每"
+
+msgid "Kilogram"
+msgstr "千克"
+
+msgid "Gram"
+msgstr "克"
+
+msgid "Pound"
+msgstr "磅"
+
+msgid "Ounce"
+msgstr "盎司"
+
+msgid "Ton"
+msgstr "吨"
+
+msgid "Metric ton"
+msgstr "公吨"
+
+msgid "Liter"
+msgstr "升"
+
+msgid "Milliliter"
+msgstr "毫升"
+
+msgid "Gallon"
+msgstr "加仑"
+
+msgid "Quart"
+msgstr "夸脱"
+
+msgid "Pint"
+msgstr "品脱"
+
+msgid "Cup"
+msgstr "杯"
+
+msgid "Tablespoon"
+msgstr "汤匙"
+
+msgid "Teaspoon"
+msgstr "茶匙"
+
+msgid "Cubic meter"
+msgstr "立方米"
+
+msgid "Cubic yard"
+msgstr "立方码"
+
+msgid "Cubic foot"
+msgstr "立方英尺"
+
+msgid "Square meter"
+msgstr "平方米"
+
+msgid "Square yard"
+msgstr "平方码"
+
+msgid "Square foot"
+msgstr "平方英尺"
+
+msgid "Meter"
+msgstr "米"
+
+msgid "Centimeter"
+msgstr "厘米"
+
+msgid "Millimeter"
+msgstr "毫米"
+
+msgid "Inch"
+msgstr "英寸"
+
+msgid "Foot"
+msgstr "英尺"
+
+msgid "Yard"
+msgstr "码"
+
+msgid "Mile"
+msgstr "英里"
+
+msgid "Kilometer"
+msgstr "公里"
+
+# Plan specific
+msgid "Plan"
+msgstr "计划"
+
+msgid "Plans"
+msgstr "计划"
+
+msgid "Plan type"
+msgstr "计划类型"
+
+msgid "Add plan"
+msgstr "添加计划"
+
+msgid "Edit plan"
+msgstr "编辑计划"
+
+msgid "Delete plan"
+msgstr "删除计划"
+
+msgid "View plan"
+msgstr "查看计划"
+
+msgid "Create plan"
+msgstr "创建计划"
+
+msgid "Plan details"
+msgstr "计划详情"
+
+msgid "Plan status"
+msgstr "计划状态"
+
+msgid "Planning period"
+msgstr "计划周期"
+
+msgid "Seasonal plan"
+msgstr "季节计划"
+
+msgid "Annual plan"
+msgstr "年度计划"
+
+msgid "Long-term plan"
+msgstr "长期计划"
+
+msgid "Crop plan"
+msgstr "种植计划"
+
+msgid "Rotation plan"
+msgstr "轮作计划"
+
+msgid "Irrigation plan"
+msgstr "灌溉计划"
+
+msgid "Fertilization plan"
+msgstr "施肥计划"
+
+msgid "Pest management plan"
+msgstr "虫害管理计划"
+
+msgid "Harvest schedule"
+msgstr "收获安排"
+
+msgid "Planting schedule"
+msgstr "种植安排"
+
+msgid "Budget"
+msgstr "预算"
+
+msgid "Resources needed"
+msgstr "所需资源"
+
+msgid "Labor required"
+msgstr "所需劳动力"
+
+msgid "Timeline"
+msgstr "时间线"
+
+msgid "Milestones"
+msgstr "里程碑"
+
+msgid "Goals"
+msgstr "目标"
+
+msgid "Objectives"
+msgstr "目标"
+
+msgid "Tasks"
+msgstr "任务"
+
+msgid "Completed"
+msgstr "已完成"
+
+msgid "In progress"
+msgstr "进行中"
+
+msgid "Not started"
+msgstr "未开始"
+
+msgid "Overdue"
+msgstr "逾期"
+
+msgid "On track"
+msgstr "正轨"
+
+msgid "At risk"
+msgstr "有风险"
+
+# Organization specific
+msgid "Organization"
+msgstr "组织"
+
+msgid "Organizations"
+msgstr "组织"
+
+msgid "Organization type"
+msgstr "组织类型"
+
+msgid "Farm"
+msgstr "农场"
+
+msgid "Farms"
+msgstr "农场"
+
+msgid "Add organization"
+msgstr "添加组织"
+
+msgid "Edit organization"
+msgstr "编辑组织"
+
+msgid "Delete organization"
+msgstr "删除组织"
+
+msgid "View organization"
+msgstr "查看组织"
+
+msgid "Organization details"
+msgstr "组织详情"
+
+msgid "Contact information"
+msgstr "联系信息"
+
+msgid "Address"
+msgstr "地址"
+
+msgid "Phone"
+msgstr "电话"
+
+msgid "Email"
+msgstr "电子邮件"
+
+msgid "Website"
+msgstr "网站"
+
+msgid "Certification"
+msgstr "认证"
+
+msgid "Organic"
+msgstr "有机"
+
+msgid "Certified organic"
+msgstr "有机认证"
+
+msgid "Transitional"
+msgstr "过渡期"
+
+msgid "Conventional"
+msgstr "常规"
+
+# Data stream specific
+msgid "Data stream"
+msgstr "数据流"
+
+msgid "Data streams"
+msgstr "数据流"
+
+msgid "Stream type"
+msgstr "流类型"
+
+msgid "Basic data"
+msgstr "基本数据"
+
+msgid "Sensor data"
+msgstr "传感器数据"
+
+msgid "Stream ID"
+msgstr "流ID"
+
+msgid "Stream name"
+msgstr "流名称"
+
+msgid "Data type"
+msgstr "数据类型"
+
+msgid "Numeric"
+msgstr "数值"
+
+msgid "Text"
+msgstr "文本"
+
+msgid "Boolean"
+msgstr "布尔"
+
+msgid "Timestamp"
+msgstr "时间戳"
+
+msgid "Data value"
+msgstr "数据值"
+
+msgid "Last value"
+msgstr "最后值"
+
+msgid "Last updated"
+msgstr "最后更新"
+
+msgid "Data points"
+msgstr "数据点"
+
+msgid "Data range"
+msgstr "数据范围"
+
+msgid "Min value"
+msgstr "最小值"
+
+msgid "Max value"
+msgstr "最大值"
+
+msgid "Average value"
+msgstr "平均值"
+
+msgid "Total value"
+msgstr "总值"
+
+msgid "Reading frequency"
+msgstr "读取频率"
+
+msgid "Reading interval"
+msgstr "读取间隔"
+
+msgid "Sensor"
+msgstr "传感器"
+
+msgid "Sensor type"
+msgstr "传感器类型"
+
+msgid "Temperature sensor"
+msgstr "温度传感器"
+
+msgid "Humidity sensor"
+msgstr "湿度传感器"
+
+msgid "Soil moisture sensor"
+msgstr "土壤水分传感器"
+
+msgid "Light sensor"
+msgstr "光照传感器"
+
+msgid "Rain gauge"
+msgstr "雨量计"
+
+msgid "Wind sensor"
+msgstr "风速传感器"
+
+msgid "pH sensor"
+msgstr "酸碱度传感器"
+
+msgid "EC sensor"
+msgstr "电导率传感器"
+
+msgid "Water level sensor"
+msgstr "水位传感器"
+
+msgid "Flow meter"
+msgstr "流量计"
+
+msgid "CO2 sensor"
+msgstr "二氧化碳传感器"
+
+msgid "GPS sensor"
+msgstr "GPS传感器"
+
+msgid "Motion sensor"
+msgstr "运动传感器"
+
+msgid "Proximity sensor"
+msgstr "接近传感器"
+
+# Quick form specific
+msgid "Quick form"
+msgstr "快速表单"
+
+msgid "Quick forms"
+msgstr "快速表单"
+
+msgid "Use quick form"
+msgstr "使用快速表单"
+
+msgid "Create quick form"
+msgstr "创建快速表单"
+
+msgid "Quick form type"
+msgstr "快速表单类型"
+
+msgid "Quick observation"
+msgstr "快速观察"
+
+msgid "Quick harvest"
+msgstr "快速收获"
+
+msgid "Quick input"
+msgstr "快速投入"
+
+msgid "Quick activity"
+msgstr "快速活动"
+
+msgid "Quick movement"
+msgstr "快速移动"
+
+msgid "Quick birth"
+msgstr "快速出生"
+
+msgid "Quick planting"
+msgstr "快速种植"
+
+msgid "Quick inventory"
+msgstr "快速库存"
+
+msgid "Quick group"
+msgstr "快速群组"
+
+# Reports specific
+msgid "Report"
+msgstr "报告"
+
+msgid "Reports"
+msgstr "报告"
+
+msgid "Generate report"
+msgstr "生成报告"
+
+msgid "Report type"
+msgstr "报告类型"
+
+msgid "Date range"
+msgstr "日期范围"
+
+msgid "Start date"
+msgstr "开始日期"
+
+msgid "End date"
+msgstr "结束日期"
+
+msgid "Summary report"
+msgstr "摘要报告"
+
+msgid "Detailed report"
+msgstr "详细报告"
+
+msgid "Activity report"
+msgstr "活动报告"
+
+msgid "Inventory report"
+msgstr "库存报告"
+
+msgid "Harvest report"
+msgstr "收获报告"
+
+msgid "Input report"
+msgstr "投入报告"
+
+msgid "Financial report"
+msgstr "财务报告"
+
+msgid "Labor report"
+msgstr "劳动力报告"
+
+msgid "Production report"
+msgstr "生产报告"
+
+msgid "Sales report"
+msgstr "销售报告"
+
+msgid "Export report"
+msgstr "导出报告"
+
+msgid "Print report"
+msgstr "打印报告"
+
+msgid "Save report"
+msgstr "保存报告"
+
+msgid "Schedule report"
+msgstr "计划报告"
+
+msgid "Email report"
+msgstr "电子邮件报告"
+
+# CSV Import/Export specific
+msgid "CSV import"
+msgstr "CSV导入"
+
+msgid "CSV export"
+msgstr "CSV导出"
+
+msgid "Import CSV"
+msgstr "导入CSV"
+
+msgid "Export CSV"
+msgstr "导出CSV"
+
+msgid "Import data"
+msgstr "导入数据"
+
+msgid "Export data"
+msgstr "导出数据"
+
+msgid "Import format"
+msgstr "导入格式"
+
+msgid "Export format"
+msgstr "导出格式"
+
+msgid "Import mapping"
+msgstr "导入映射"
+
+msgid "Field mapping"
+msgstr "字段映射"
+
+msgid "Import preview"
+msgstr "导入预览"
+
+msgid "Import options"
+msgstr "导入选项"
+
+msgid "Update existing"
+msgstr "更新现有"
+
+msgid "Create new"
+msgstr "创建新"
+
+msgid "Skip existing"
+msgstr "跳过现有"
+
+msgid "Delete before import"
+msgstr "导入前删除"
+
+msgid "Import results"
+msgstr "导入结果"
+
+msgid "Rows imported"
+msgstr "已导入行"
+
+msgid "Rows skipped"
+msgstr "已跳过行"
+
+msgid "Rows updated"
+msgstr "已更新行"
+
+msgid "Rows deleted"
+msgstr "已删除行"
+
+msgid "Import errors"
+msgstr "导入错误"
+
+msgid "Import warnings"
+msgstr "导入警告"
+
+msgid "Download template"
+msgstr "下载模板"
+
+msgid "Upload file"
+msgstr "上传文件"
+
+msgid "Select CSV file"
+msgstr "选择CSV文件"
+
+msgid "Column delimiter"
+msgstr "列分隔符"
+
+msgid "Enclosure character"
+msgstr "包围字符"
+
+msgid "Header row"
+msgstr "标题行"
+
+msgid "First row is header"
+msgstr "第一行是标题"
+
+msgid "Encoding"
+msgstr "编码"
+
+msgid "UTF-8"
+msgstr "UTF-8"
+
+msgid "ISO-8859-1"
+msgstr "ISO-8859-1"
+
+# User and authentication
+msgid "User"
+msgstr "用户"
+
+msgid "Users"
+msgstr "用户"
+
+msgid "Account"
+msgstr "账户"
+
+msgid "My account"
+msgstr "我的账户"
+
+msgid "User profile"
+msgstr "用户资料"
+
+msgid "User settings"
+msgstr "用户设置"
+
+msgid "User permissions"
+msgstr "用户权限"
+
+msgid "Role"
+msgstr "角色"
+
+msgid "Roles"
+msgstr "角色"
+
+msgid "Permission"
+msgstr "权限"
+
+msgid "Permissions"
+msgstr "权限"
+
+msgid "Access"
+msgstr "访问"
+
+msgid "Login"
+msgstr "登录"
+
+msgid "Logout"
+msgstr "退出"
+
+msgid "Register"
+msgstr "注册"
+
+msgid "Forgot password"
+msgstr "忘记密码"
+
+msgid "Reset password"
+msgstr "重置密码"
+
+msgid "Change password"
+msgstr "更改密码"
+
+msgid "Username"
+msgstr "用户名"
+
+msgid "Password"
+msgstr "密码"
+
+msgid "Email address"
+msgstr "电子邮件地址"
+
+msgid "Current password"
+msgstr "当前密码"
+
+msgid "New password"
+msgstr "新密码"
+
+msgid "Confirm password"
+msgstr "确认密码"
+
+msgid "Remember me"
+msgstr "记住我"
+
+msgid "Password requirements"
+msgstr "密码要求"
+
+msgid "Account blocked"
+msgstr "账户被封禁"
+
+msgid "Account deleted"
+msgstr "账户已删除"
+
+msgid "Account created"
+msgstr "账户已创建"
+
+msgid "Welcome"
+msgstr "欢迎"
+
+msgid "Goodbye"
+msgstr "再见"
+
+msgid "Last login"
+msgstr "最后登录"
+
+msgid "Never logged in"
+msgstr "从未登录"
+
+msgid "Login attempts"
+msgstr "登录尝试"
+
+msgid "Blocked until"
+msgstr "封禁至"
+
+msgid "Blocked indefinitely"
+msgstr "无限期封禁"
+
+# Settings and configuration
+msgid "Settings"
+msgstr "设置"
+
+msgid "Configuration"
+msgstr "配置"
+
+msgid "Site configuration"
+msgstr "站点配置"
+
+msgid "Farm settings"
+msgstr "农场设置"
+
+msgid "System settings"
+msgstr "系统设置"
+
+msgid "Module settings"
+msgstr "模块设置"
+
+msgid "Theme settings"
+msgstr "主题设置"
+
+msgid "Language settings"
+msgstr "语言设置"
+
+msgid "Regional settings"
+msgstr "区域设置"
+
+msgid "Date format"
+msgstr "日期格式"
+
+msgid "Time format"
+msgstr "时间格式"
+
+msgid "Time zone"
+msgstr "时区"
+
+msgid "Default country"
+msgstr "默认国家"
+
+msgid "Default time zone"
+msgstr "默认时区"
+
+msgid "First day of week"
+msgstr "一周的第一天"
+
+msgid "Monday"
+msgstr "星期一"
+
+msgid "Sunday"
+msgstr "星期日"
+
+msgid "Site information"
+msgstr "站点信息"
+
+msgid "Site name"
+msgstr "站点名称"
+
+msgid "Site slogan"
+msgstr "站点口号"
+
+msgid "Site email"
+msgstr "站点邮箱"
+
+msgid "Site maintenance"
+msgstr "站点维护"
+
+msgid "Maintenance mode"
+msgstr "维护模式"
+
+msgid "Site is under maintenance"
+msgstr "站点正在维护中"
+
+msgid "Update notifications"
+msgstr "更新通知"
+
+msgid "Check for updates"
+msgstr "检查更新"
+
+msgid "Update available"
+msgstr "有可用更新"
+
+msgid "No updates available"
+msgstr "没有可用更新"
+
+# API related
+msgid "API"
+msgstr "API"
+
+msgid "REST API"
+msgstr "REST API"
+
+msgid "JSON:API"
+msgstr "JSON:API"
+
+msgid "OAuth"
+msgstr "OAuth"
+
+msgid "OAuth authentication"
+msgstr "OAuth认证"
+
+msgid "API key"
+msgstr "API密钥"
+
+msgid "API token"
+msgstr "API令牌"
+
+msgid "API documentation"
+msgstr "API文档"
+
+msgid "API endpoints"
+msgstr "API端点"
+
+msgid "API rate limits"
+msgstr "API速率限制"
+
+msgid "Authentication required"
+msgstr "需要认证"
+
+msgid "Invalid API key"
+msgstr "无效的API密钥"
+
+msgid "Token expired"
+msgstr "令牌已过期"
+
+msgid "Unauthorized"
+msgstr "未授权"
+
+msgid "Bad request"
+msgstr "错误请求"
+
+msgid "Not found"
+msgstr "未找到"
+
+msgid "Method not allowed"
+msgstr "不允许的方法"
+
+msgid "Conflict"
+msgstr "冲突"
+
+msgid "Too many requests"
+msgstr "请求过多"
+
+msgid "Internal server error"
+msgstr "内部服务器错误"
+
+# Error messages
+msgid "Error"
+msgstr "错误"
+
+msgid "Errors"
+msgstr "错误"
+
+msgid "An error occurred"
+msgstr "发生了一个错误"
+
+msgid "An error occurred while processing your request."
+msgstr "处理您的请求时发生了一个错误。"
+
+msgid "Access denied"
+msgstr "访问被拒绝"
+
+msgid "You do not have permission to access this page."
+msgstr "您没有权限访问此页面。"
+
+msgid "Page not found"
+msgstr "页面未找到"
+
+msgid "The requested page could not be found."
+msgstr "找不到请求的页面。"
+
+msgid "Forbidden"
+msgstr "禁止"
+
+msgid "You are not allowed to access this page."
+msgstr "您不被允许访问此页面。"
+
+msgid "Not implemented"
+msgstr "未实现"
+
+msgid "This feature is not yet implemented."
+msgstr "此功能尚未实现。"
+
+msgid "Service unavailable"
+msgstr "服务不可用"
+
+msgid "The service is currently unavailable. Please try again later."
+msgstr "服务目前不可用。请稍后再试。"
+
+# Confirmation messages
+msgid "Are you sure?"
+msgstr "您确定吗？"
+
+msgid "Are you sure you want to continue?"
+msgstr "您确定要继续吗？"
+
+msgid "Are you sure you want to delete this item?"
+msgstr "您确定要删除此项目吗？"
+
+msgid "This action cannot be undone."
+msgstr "此操作无法撤销。"
+
+msgid "Confirm"
+msgstr "确认"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Continue"
+msgstr "继续"
+
+msgid "Back"
+msgstr "返回"
+
+msgid "Yes, continue"
+msgstr "是的，继续"
+
+msgid "No, cancel"
+msgstr "不，取消"
+
+# Status messages
+msgid "Success"
+msgstr "成功"
+
+msgid "Success!"
+msgstr "成功！"
+
+msgid "Operation completed successfully."
+msgstr "操作成功完成。"
+
+msgid "Warning"
+msgstr "警告"
+
+msgid "Please review the following:"
+msgstr "请查看以下内容："
+
+msgid "Notice"
+msgstr "通知"
+
+msgid "Information"
+msgstr "信息"
+
+msgid "Status"
+msgstr "状态"
+
+msgid "Status message"
+msgstr "状态消息"
+
+msgid "No messages."
+msgstr "没有消息。"
+
+# Help text
+msgid "Help"
+msgstr "帮助"
+
+msgid "Help topics"
+msgstr "帮助主题"
+
+msgid "Contextual help"
+msgstr "上下文帮助"
+
+msgid "Need help?"
+msgstr "需要帮助？"
+
+msgid "Documentation"
+msgstr "文档"
+
+msgid "User guide"
+msgstr "用户指南"
+
+msgid "Administrator guide"
+msgstr "管理员指南"
+
+msgid "API documentation"
+msgstr "API文档"
+
+msgid "Developer documentation"
+msgstr "开发者文档"
+
+msgid "Community forum"
+msgstr "社区论坛"
+
+msgid "Issue queue"
+msgstr "问题队列"
+
+msgid "FAQ"
+msgstr "常见问题"
+
+msgid "Video tutorials"
+msgstr "视频教程"
+
+msgid "Contact support"
+msgstr "联系支持"
+
+msgid "Report a bug"
+msgstr "报告错误"
+
+msgid "Request a feature"
+msgstr "请求功能"
+
+msgid "Learn more"
+msgstr "了解更多"
+
+msgid "Read more"
+msgstr "阅读更多"
+
+msgid "View documentation"
+msgstr "查看文档"
+
+msgid "Open in new window"
+msgstr "在新窗口中打开"
+
+msgid "View source"
+msgstr "查看源代码"
+
+# Actions
+msgid "Actions"
+msgstr "操作"
+
+msgid "More actions"
+msgstr "更多操作"
+
+msgid "Operation"
+msgstr "操作"
+
+msgid "Add"
+msgstr "添加"
+
+msgid "Edit"
+msgstr "编辑"
+
+msgid "Delete"
+msgstr "删除"
+
+msgid "View"
+msgstr "查看"
+
+msgid "Preview"
+msgstr "预览"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Submit"
+msgstr "提交"
+
+msgid "Reset"
+msgstr "重置"
+
+msgid "Apply"
+msgstr "应用"
+
+msgid "Update"
+msgstr "更新"
+
+msgid "Create"
+msgstr "创建"
+
+msgid "Remove"
+msgstr "移除"
+
+msgid "Copy"
+msgstr "复制"
+
+msgid "Duplicate"
+msgstr "复制"
+
+msgid "Move"
+msgstr "移动"
+
+msgid "Rename"
+msgstr "重命名"
+
+msgid "Replace"
+msgstr "替换"
+
+msgid "Upload"
+msgstr "上传"
+
+msgid "Download"
+msgstr "下载"
+
+msgid "Import"
+msgstr "导入"
+
+msgid "Export"
+msgstr "导出"
+
+msgid "Print"
+msgstr "打印"
+
+msgid "Share"
+msgstr "分享"
+
+msgid "Publish"
+msgstr "发布"
+
+msgid "Unpublish"
+msgstr "取消发布"
+
+msgid "Archive"
+msgstr "归档"
+
+msgid "Unarchive"
+msgstr "取消归档"
+
+msgid "Enable"
+msgstr "启用"
+
+msgid "Disable"
+msgstr "禁用"
+
+msgid "Install"
+msgstr "安装"
+
+msgid "Uninstall"
+msgstr "卸载"
+
+msgid "Update"
+msgstr "更新"
+
+msgid "Upgrade"
+msgstr "升级"
+
+msgid "Configure"
+msgstr "配置"
+
+msgid "Clear"
+msgstr "清除"
+
+msgid "Rebuild"
+msgstr "重建"
+
+msgid "Flush cache"
+msgstr "刷新缓存"
+
+msgid "Run cron"
+msgstr "运行定时任务"
+
+msgid "Run updates"
+msgstr "运行更新"
+
+msgid "Translate"
+msgstr "翻译"
+
+msgid "Localize"
+msgstr "本地化"
+
+msgid "Customize"
+msgstr "自定义"
+
+msgid "Override"
+msgstr "覆盖"
+
+msgid "Revert"
+msgstr "还原"
+
+msgid "Discard"
+msgstr "丢弃"
+
+msgid "Restore"
+msgstr "恢复"
+
+msgid "Lock"
+msgstr "锁定"
+
+msgid "Unlock"
+msgstr "解锁"
+
+msgid "Hide"
+msgstr "隐藏"
+
+msgid "Show"
+msgstr "显示"
+
+msgid "Expand"
+msgstr "展开"
+
+msgid "Collapse"
+msgstr "折叠"
+
+msgid "Maximize"
+msgstr "最大化"
+
+msgid "Minimize"
+msgstr "最小化"
+
+msgid "Close"
+msgstr "关闭"
+
+msgid "Open"
+msgstr "打开"
+
+msgid "Start"
+msgstr "开始"
+
+msgid "Stop"
+msgstr "停止"
+
+msgid "Pause"
+msgstr "暂停"
+
+msgid "Resume"
+msgstr "继续"
+
+msgid "Abort"
+msgstr "中止"
+
+msgid "Retry"
+msgstr "重试"
+
+msgid "Refresh"
+msgstr "刷新"
+
+msgid "Reload"
+msgstr "重新加载"
+
+msgid "Send"
+msgstr "发送"
+
+msgid "Receive"
+msgstr "接收"
+
+msgid "Reply"
+msgstr "回复"
+
+msgid "Forward"
+msgstr "转发"
+
+msgid "Reply to"
+msgstr "回复"
+
+msgid "Reply all"
+msgstr "回复全部"
+
+msgid "Mark as read"
+msgstr "标记为已读"
+
+msgid "Mark as unread"
+msgstr "标记为未读"
+
+msgid "Flag"
+msgstr "标记"
+
+msgid "Unflag"
+msgstr "取消标记"
+
+msgid "Star"
+msgstr "星标"
+
+msgid "Unstar"
+msgstr "取消星标"
+
+msgid "Pin"
+msgstr "固定"
+
+msgid "Unpin"
+msgstr "取消固定"
+
+msgid "Sort"
+msgstr "排序"
+
+msgid "Filter"
+msgstr "过滤"
+
+msgid "Search"
+msgstr "搜索"
+
+msgid "Advanced search"
+msgstr "高级搜索"
+
+msgid "Clear filters"
+msgstr "清除过滤"
+
+msgid "Sort by"
+msgstr "排序方式"
+
+msgid "Ascending"
+msgstr "升序"
+
+msgid "Descending"
+msgstr "降序"
+
+msgid "Group by"
+msgstr "分组方式"
+
+msgid "Group"
+msgstr "分组"
+
+msgid "Ungroup"
+msgstr "取消分组"
+
+msgid "Bulk operations"
+msgstr "批量操作"
+
+msgid "Select all"
+msgstr "全选"
+
+msgid "Deselect all"
+msgstr "取消全选"
+
+msgid "Invert selection"
+msgstr "反选"
+
+msgid "Selection"
+msgstr "选择"
+
+msgid "@count items selected"
+msgstr "已选择 @count 个项目"
+
+# Pagination
+msgid "Page"
+msgstr "页"
+
+msgid "Page @current of @total"
+msgstr "第 @current 页，共 @total 页"
+
+msgid "First page"
+msgstr "第一页"
+
+msgid "Previous page"
+msgstr "上一页"
+
+msgid "Next page"
+msgstr "下一页"
+
+msgid "Last page"
+msgstr "最后一页"
+
+msgid "Go to first page"
+msgstr "转到第一页"
+
+msgid "Go to last page"
+msgstr "转到最后一页"
+
+msgid "Go to page @number"
+msgstr "转到第 @number 页"
+
+msgid "Items per page"
+msgstr "每页项目数"
+
+msgid "All items"
+msgstr "所有项目"
+
+msgid "Show @count items per page"
+msgstr "每页显示 @count 个项目"
+
+# Empty states
+msgid "No results"
+msgstr "无结果"
+
+msgid "No items found"
+msgstr "未找到项目"
+
+msgid "No content available"
+msgstr "没有可用内容"
+
+msgid "No data available"
+msgstr "没有可用数据"
+
+msgid "No records found"
+msgstr "未找到记录"
+
+msgid "This list is empty"
+msgstr "此列表为空"
+
+msgid "Be the first to add an item"
+msgstr "成为第一个添加项目的人"
+
+msgid "Create a new @item"
+msgstr "创建新的 @item"
+
+msgid "Get started by creating your first @item."
+msgstr "通过创建您的第一个 @item 开始。"
+
+msgid "No items match your filter"
+msgstr "没有项目符合您的过滤条件"
+
+msgid "Try adjusting your search or filter to find what you're looking for."
+msgstr "尝试调整您的搜索或过滤条件来找到您要查找的内容。"
+
+# Tables
+msgid "Table"
+msgstr "表格"
+
+msgid "Table view"
+msgstr "表格视图"
+
+msgid "Grid view"
+msgstr "网格视图"
+
+msgid "List view"
+msgstr "列表视图"
+
+msgid "Row"
+msgstr "行"
+
+msgid "Column"
+msgstr "列"
+
+msgid "Cell"
+msgstr "单元格"
+
+msgid "Header"
+msgstr "表头"
+
+msgid "Footer"
+msgstr "表脚"
+
+msgid "Empty cell"
+msgstr "空单元格"
+
+msgid "Row @number"
+msgstr "第 @number 行"
+
+msgid "Column @number"
+msgstr "第 @number 列"
+
+msgid "Sort ascending"
+msgstr "升序排列"
+
+msgid "Sort descending"
+msgstr "降序排列"
+
+msgid "Sort by @column"
+msgstr "按 @column 排序"
+
+msgid "No sort"
+msgstr "不排序"
+
+# Forms
+msgid "Form"
+msgstr "表单"
+
+msgid "Required"
+msgstr "必填"
+
+msgid "Optional"
+msgstr "可选"
+
+msgid "This field is required"
+msgstr "此字段为必填"
+
+msgid "Invalid value"
+msgstr "无效的值"
+
+msgid "Allowed values"
+msgstr "允许的值"
+
+msgid "Placeholder"
+msgstr "占位符"
+
+msgid "Default value"
+msgstr "默认值"
+
+msgid "Help text"
+msgstr "帮助文本"
+
+msgid "Description"
+msgstr "描述"
+
+msgid "Label"
+msgstr "标签"
+
+msgid "Text format"
+msgstr "文本格式"
+
+msgid "Plain text"
+msgstr "纯文本"
+
+msgid "Filtered text"
+msgstr "过滤文本"
+
+msgid "Full HTML"
+msgstr "完整HTML"
+
+msgid "WYSIWYG"
+msgstr "所见即所得"
+
+msgid "Rich text"
+msgstr "富文本"
+
+msgid "Markdown"
+msgstr "Markdown"
+
+msgid "Character limit"
+msgstr "字符限制"
+
+msgid "@count characters remaining"
+msgstr "剩余 @count 个字符"
+
+msgid "Image"
+msgstr "图片"
+
+msgid "File"
+msgstr "文件"
+
+msgid "Upload file"
+msgstr "上传文件"
+
+msgid "Choose file"
+msgstr "选择文件"
+
+msgid "No file chosen"
+msgstr "未选择文件"
+
+msgid "File size limit"
+msgstr "文件大小限制"
+
+msgid "Allowed file types"
+msgstr "允许的文件类型"
+
+msgid "Upload failed"
+msgstr "上传失败"
+
+msgid "Delete file"
+msgstr "删除文件"
+
+msgid "Replace file"
+msgstr "替换文件"
+
+msgid "Preview image"
+msgstr "预览图片"
+
+msgid "Alt text"
+msgstr "替代文本"
+
+msgid "Title text"
+msgstr "标题文本"
+
+msgid "Checkbox"
+msgstr "复选框"
+
+msgid "Radio button"
+msgstr "单选按钮"
+
+msgid "Select list"
+msgstr "选择列表"
+
+msgid "Text field"
+msgstr "文本字段"
+
+msgid "Text area"
+msgstr "文本区域"
+
+msgid "Password field"
+msgstr "密码字段"
+
+msgid "Email field"
+msgstr "电子邮件字段"
+
+msgid "URL field"
+msgstr "URL字段"
+
+msgid "Number field"
+msgstr "数字字段"
+
+msgid "Date field"
+msgstr "日期字段"
+
+msgid "Time field"
+msgstr "时间字段"
+
+msgid "Date/time field"
+msgstr "日期/时间字段"
+
+msgid "Color field"
+msgstr "颜色字段"
+
+msgid "Hidden field"
+msgstr "隐藏字段"
+
+msgid "Machine name"
+msgstr "机器名"
+
+msgid "Autocomplete"
+msgstr "自动完成"
+
+msgid "Autocomplete result"
+msgstr "自动完成结果"
+
+msgid "Loading..."
+msgstr "加载中..."
+
+msgid "No results found."
+msgstr "未找到结果。"
+
+msgid "Please select..."
+msgstr "请选择..."
+
+msgid "Other"
+msgstr "其他"
+
+msgid "None"
+msgstr "无"
+
+msgid "Add more"
+msgstr "添加更多"
+
+msgid "Remove button"
+msgstr "移除按钮"
+
+msgid "Add button"
+msgstr "添加按钮"
+
+msgid "Weight"
+msgstr "权重"
+
+msgid "Move up"
+msgstr "上移"
+
+msgid "Move down"
+msgstr "下移"
+
+msgid "Drag to reorder"
+msgstr "拖动重新排序"
+
+# Workflow states
+msgid "Workflow"
+msgstr "工作流"
+
+msgid "Workflow state"
+msgstr "工作流状态"
+
+msgid "Pending"
+msgstr "待处理"
+
+msgid "Draft"
+msgstr "草稿"
+
+msgid "Review"
+msgstr "审核"
+
+msgid "Approved"
+msgstr "已批准"
+
+msgid "Rejected"
+msgstr "已拒绝"
+
+msgid "Published"
+msgstr "已发布"
+
+msgid "Unpublished"
+msgstr "未发布"
+
+msgid "Archived"
+msgstr "已归档"
+
+msgid "Active"
+msgstr "活动"
+
+msgid "Closed"
+msgstr "已关闭"
+
+msgid "Canceled"
+msgstr "已取消"
+
+msgid "Completed"
+msgstr "已完成"
+
+msgid "Done"
+msgstr "完成"
+
+msgid "In progress"
+msgstr "进行中"
+
+msgid "Not started"
+msgstr "未开始"
+
+msgid "On hold"
+msgstr "暂停"
+
+msgid "Needs review"
+msgstr "需要审核"
+
+msgid "Ready for release"
+msgstr "准备发布"
+
+msgid "Released"
+msgstr "已发布"
+
+msgid "Obsolete"
+msgstr "已废弃"
+
+msgid "Revision log message"
+msgstr "修订日志消息"
+
+msgid "Provide a log message explaining your changes."
+msgstr "提供解释您的更改的日志消息。"
+
+msgid "New revision"
+msgstr "新修订"
+
+msgid "No revision"
+msgstr "无修订"
+
+msgid "Create new revision"
+msgstr "创建新修订"
+
+msgid "Update existing revision"
+msgstr "更新现有修订"
+
+# Misc
+msgid "Yes"
+msgstr "是"
+
+msgid "No"
+msgstr "否"
+
+msgid "True"
+msgstr "真"
+
+msgid "False"
+msgstr "假"
+
+msgid "Enabled"
+msgstr "已启用"
+
+msgid "Disabled"
+msgstr "已禁用"
+
+msgid "Active"
+msgstr "活动"
+
+msgid "Inactive"
+msgstr "非活动"
+
+msgid "Visible"
+msgstr "可见"
+
+msgid "Hidden"
+msgstr "隐藏"
+
+msgid "Locked"
+msgstr "已锁定"
+
+msgid "Unlocked"
+msgstr "已解锁"
+
+msgid "Public"
+msgstr "公开"
+
+msgid "Private"
+msgstr "私有"
+
+msgid "Restricted"
+msgstr "受限"
+
+msgid "Normal"
+msgstr "正常"
+
+msgid "Advanced"
+msgstr "高级"
+
+msgid "Basic"
+msgstr "基本"
+
+msgid "Simple"
+msgstr "简单"
+
+msgid "Default"
+msgstr "默认"
+
+msgid "Custom"
+msgstr "自定义"
+
+msgid "System"
+msgstr "系统"
+
+msgid "General"
+msgstr "常规"
+
+msgid "Other"
+msgstr "其他"
+
+msgid "All"
+msgstr "全部"
+
+msgid "Any"
+msgstr "任意"
+
+msgid "None"
+msgstr "无"
+
+msgid "Or"
+msgstr "或"
+
+msgid "And"
+msgstr "和"
+
+msgid "Not"
+msgstr "非"
+
+msgid "Is equal to"
+msgstr "等于"
+
+msgid "Is not equal to"
+msgstr "不等于"
+
+msgid "Contains"
+msgstr "包含"
+
+msgid "Does not contain"
+msgstr "不包含"
+
+msgid "Starts with"
+msgstr "开始于"
+
+msgid "Ends with"
+msgstr "结束于"
+
+msgid "Is empty"
+msgstr "为空"
+
+msgid "Is not empty"
+msgstr "不为空"
+
+msgid "Is in"
+msgstr "在...中"
+
+msgid "Is not in"
+msgstr "不在...中"
+
+msgid "Is between"
+msgstr "介于"
+
+msgid "Is greater than"
+msgstr "大于"
+
+msgid "Is less than"
+msgstr "小于"
+
+msgid "Is greater than or equal to"
+msgstr "大于或等于"
+
+msgid "Is less than or equal to"
+msgstr "小于或等于"
+
+msgid "Regular expression"
+msgstr "正则表达式"
+
+msgid "Matches"
+msgstr "匹配"
+
+msgid "Does not match"
+msgstr "不匹配"
+
+# Time and dates
+msgid "Today"
+msgstr "今天"
+
+msgid "Yesterday"
+msgstr "昨天"
+
+msgid "Tomorrow"
+msgstr "明天"
+
+msgid "This week"
+msgstr "本周"
+
+msgid "Last week"
+msgstr "上周"
+
+msgid "Next week"
+msgstr "下周"
+
+msgid "This month"
+msgstr "本月"
+
+msgid "Last month"
+msgstr "上月"
+
+msgid "Next month"
+msgstr "下月"
+
+msgid "This quarter"
+msgstr "本季度"
+
+msgid "Last quarter"
+msgstr "上季度"
+
+msgid "Next quarter"
+msgstr "下季度"
+
+msgid "This year"
+msgstr "今年"
+
+msgid "Last year"
+msgstr "去年"
+
+msgid "Next year"
+msgstr "明年"
+
+msgid "Season"
+msgstr "季节"
+
+msgid "Spring"
+msgstr "春季"
+
+msgid "Summer"
+msgstr "夏季"
+
+msgid "Autumn"
+msgstr "秋季"
+
+msgid "Fall"
+msgstr "秋季"
+
+msgid "Winter"
+msgstr "冬季"
+
+msgid "Jan"
+msgstr "一月"
+
+msgid "Feb"
+msgstr "二月"
+
+msgid "Mar"
+msgstr "三月"
+
+msgid "Apr"
+msgstr "四月"
+
+msgid "May"
+msgstr "五月"
+
+msgid "Jun"
+msgstr "六月"
+
+msgid "Jul"
+msgstr "七月"
+
+msgid "Aug"
+msgstr "八月"
+
+msgid "Sep"
+msgstr "九月"
+
+msgid "Oct"
+msgstr "十月"
+
+msgid "Nov"
+msgstr "十一月"
+
+msgid "Dec"
+msgstr "十二月"
+
+msgid "January"
+msgstr "一月"
+
+msgid "February"
+msgstr "二月"
+
+msgid "March"
+msgstr "三月"
+
+msgid "April"
+msgstr "四月"
+
+msgid "June"
+msgstr "六月"
+
+msgid "July"
+msgstr "七月"
+
+msgid "August"
+msgstr "八月"
+
+msgid "September"
+msgstr "九月"
+
+msgid "October"
+msgstr "十月"
+
+msgid "November"
+msgstr "十一月"
+
+msgid "December"
+msgstr "十二月"
+
+msgid "Sun"
+msgstr "周日"
+
+msgid "Mon"
+msgstr "周一"
+
+msgid "Tue"
+msgstr "周二"
+
+msgid "Wed"
+msgstr "周三"
+
+msgid "Thu"
+msgstr "周四"
+
+msgid "Fri"
+msgstr "周五"
+
+msgid "Sat"
+msgstr "周六"
+
+msgid "Sunday"
+msgstr "星期日"
+
+msgid "Monday"
+msgstr "星期一"
+
+msgid "Tuesday"
+msgstr "星期二"
+
+msgid "Wednesday"
+msgstr "星期三"
+
+msgid "Thursday"
+msgstr "星期四"
+
+msgid "Friday"
+msgstr "星期五"
+
+msgid "Saturday"
+msgstr "星期六"
+
+msgid "AM"
+msgstr "上午"
+
+msgid "PM"
+msgstr "下午"
+
+msgid "12:00 AM"
+msgstr "上午12:00"
+
+msgid "12:00 PM"
+msgstr "下午12:00"
+
+msgid "Midnight"
+msgstr "午夜"
+
+msgid "Noon"
+msgstr "中午"
+
+msgid "Just now"
+msgstr "刚刚"
+
+msgid "A moment ago"
+msgstr "片刻之前"
+
+msgid "Minutes ago"
+msgstr "分钟前"
+
+msgid "Hours ago"
+msgstr "小时前"
+
+msgid "Days ago"
+msgstr "天前"
+
+msgid "Weeks ago"
+msgstr "周前"
+
+msgid "Months ago"
+msgstr "月前"
+
+msgid "Years ago"
+msgstr "年前"
+
+msgid "In a moment"
+msgstr "稍后"
+
+msgid "In minutes"
+msgstr "几分钟后"
+
+msgid "In hours"
+msgstr "几小时后"
+
+msgid "In days"
+msgstr "几天后"
+
+msgid "In weeks"
+msgstr "几周后"
+
+msgid "In months"
+msgstr "几月后"
+
+msgid "In years"
+msgstr "几年后"
+
+# Units of measurement
+msgid "Unit"
+msgstr "单位"
+
+msgid "Units"
+msgstr "单位"
+
+msgid "Unit of measure"
+msgstr "计量单位"
+
+msgid "Metric"
+msgstr "公制"
+
+msgid "Imperial"
+msgstr "英制"
+
+msgid "US"
+msgstr "美国"
+
+msgid "International"
+msgstr "国际"
+
+msgid "Customary"
+msgstr "习惯"
+
+msgid "Weight"
+msgstr "重量"
+
+msgid "Volume"
+msgstr "体积"
+
+msgid "Length"
+msgstr "长度"
+
+msgid "Area"
+msgstr "面积"
+
+msgid "Speed"
+msgstr "速度"
+
+msgid "Temperature"
+msgstr "温度"
+
+msgid "Time"
+msgstr "时间"
+
+msgid "Pressure"
+msgstr "压力"
+
+msgid "Energy"
+msgstr "能量"
+
+msgid "Power"
+msgstr "功率"
+
+msgid "Frequency"
+msgstr "频率"
+
+msgid "Data"
+msgstr "数据"
+
+msgid "Angle"
+msgstr "角度"
+
+msgid "Concentration"
+msgstr "浓度"
+
+msgid "Electric current"
+msgstr "电流"
+
+msgid "Amount of substance"
+msgstr "物质量"
+
+msgid "Luminous intensity"
+msgstr "发光强度"
+
+msgid "Kilogram"
+msgstr "千克"
+
+msgid "Gram"
+msgstr "克"
+
+msgid "Milligram"
+msgstr "毫克"
+
+msgid "Microgram"
+msgstr "微克"
+
+msgid "Metric ton"
+msgstr "公吨"
+
+msgid "Pound"
+msgstr "磅"
+
+msgid "Ounce"
+msgstr "盎司"
+
+msgid "Ton"
+msgstr "吨"
+
+msgid "Stone"
+msgstr "英石"
+
+msgid "Kilogram"
+msgstr "千克"
+
+msgid "Kilogram"
+msgstr "千克"
+
+msgid "Kilogram"
+msgstr "千克"
+
+msgid "Liter"
+msgstr "升"
+
+msgid "Milliliter"
+msgstr "毫升"
+
+msgid "Cubic meter"
+msgstr "立方米"
+
+msgid "Cubic centimeter"
+msgstr "立方厘米"
+
+msgid "Gallon (US)"
+msgstr "加仑（美国）"
+
+msgid "Gallon (UK)"
+msgstr "加仑（英国）"
+
+msgid "Quart"
+msgstr "夸脱"
+
+msgid "Pint"
+msgstr "品脱"
+
+msgid "Cup"
+msgstr "杯"
+
+msgid "Fluid ounce"
+msgstr "液体盎司"
+
+msgid "Tablespoon"
+msgstr "汤匙"
+
+msgid "Teaspoon"
+msgstr "茶匙"
+
+msgid "Barrel"
+msgstr "桶"
+
+msgid "Meter"
+msgstr "米"
+
+msgid "Centimeter"
+msgstr "厘米"
+
+msgid "Millimeter"
+msgstr "毫米"
+
+msgid "Kilometer"
+msgstr "公里"
+
+msgid "Micrometer"
+msgstr "微米"
+
+msgid "Nanometer"
+msgstr "纳米"
+
+msgid "Inch"
+msgstr "英寸"
+
+msgid "Foot"
+msgstr "英尺"
+
+msgid "Yard"
+msgstr "码"
+
+msgid "Mile"
+msgstr "英里"
+
+msgid "Nautical mile"
+msgstr "海里"
+
+msgid "Square meter"
+msgstr "平方米"
+
+msgid "Square centimeter"
+msgstr "平方厘米"
+
+msgid "Square kilometer"
+msgstr "平方公里"
+
+msgid "Hectare"
+msgstr "公顷"
+
+msgid "Acre"
+msgstr "英亩"
+
+msgid "Square foot"
+msgstr "平方英尺"
+
+msgid "Square yard"
+msgstr "平方码"
+
+msgid "Square inch"
+msgstr "平方英寸"
+
+msgid "Square mile"
+msgstr "平方英里"
+
+msgid "Meter per second"
+msgstr "米每秒"
+
+msgid "Kilometer per hour"
+msgstr "公里每小时"
+
+msgid "Mile per hour"
+msgstr "英里每小时"
+
+msgid "Knot"
+msgstr "节"
+
+msgid "Celsius"
+msgstr "摄氏度"
+
+msgid "Fahrenheit"
+msgstr "华氏度"
+
+msgid "Kelvin"
+msgstr "开尔文"
+
+msgid "Second"
+msgstr "秒"
+
+msgid "Minute"
+msgstr "分钟"
+
+msgid "Hour"
+msgstr "小时"
+
+msgid "Day"
+msgstr "天"
+
+msgid "Week"
+msgstr "周"
+
+msgid "Month"
+msgstr "月"
+
+msgid "Year"
+msgstr "年"
+
+msgid "Decade"
+msgstr "十年"
+
+msgid "Century"
+msgstr "世纪"
+
+msgid "Pascal"
+msgstr "帕斯卡"
+
+msgid "Bar"
+msgstr "巴"
+
+msgid "Atmosphere"
+msgstr "大气压"
+
+msgid "PSI"
+msgstr "磅力每平方英寸"
+
+msgid "Joule"
+msgstr "焦耳"
+
+msgid "Kilojoule"
+msgstr "千焦"
+
+msgid "Calorie"
+msgstr "卡路里"
+
+msgid "Kilocalorie"
+msgstr "千卡"
+
+msgid "Watt"
+msgstr "瓦特"
+
+msgid "Kilowatt"
+msgstr "千瓦"
+
+msgid "Megawatt"
+msgstr "兆瓦"
+
+msgid "Horsepower"
+msgstr "马力"
+
+msgid "Hertz"
+msgstr "赫兹"
+
+msgid "Kilohertz"
+msgstr "千赫兹"
+
+msgid "Megahertz"
+msgstr "兆赫兹"
+
+msgid "Gigahertz"
+msgstr "吉赫兹"
+
+msgid "Byte"
+msgstr "字节"
+
+msgid "Kilobyte"
+msgstr "千字节"
+
+msgid "Megabyte"
+msgstr "兆字节"
+
+msgid "Gigabyte"
+msgstr "吉字节"
+
+msgid "Terabyte"
+msgstr "太字节"
+
+msgid "Petabyte"
+msgstr "拍字节"
+
+msgid "Degree"
+msgstr "度"
+
+msgid "Radian"
+msgstr "弧度"
+
+msgid "Grade"
+msgstr "梯度"
+
+msgid "Arc minute"
+msgstr "弧分"
+
+msgid "Arc second"
+msgstr "弧秒"
+
+msgid "Percent"
+msgstr "百分比"
+
+msgid "Parts per million"
+msgstr "百万分之一"
+
+msgid "Parts per billion"
+msgstr "十亿分之一"
+
+msgid "Mole"
+msgstr "摩尔"
+
+msgid "Millimole"
+msgstr "毫摩尔"
+
+msgid "Candela"
+msgstr "坎德拉"
+
+msgid "Ampere"
+msgstr "安培"
+
+msgid "Milliampere"
+msgstr "毫安"
+
+msgid "Microampere"
+msgstr "微安"
+
+msgid "Kelvin"
+msgstr "开尔文"
+
+# Currency and financial
+msgid "Currency"
+msgstr "货币"
+
+msgid "Price"
+msgstr "价格"
+
+msgid "Cost"
+msgstr "成本"
+
+msgid "Value"
+msgstr "价值"
+
+msgid "Total"
+msgstr "总计"
+
+msgid "Subtotal"
+msgstr "小计"
+
+msgid "Tax"
+msgstr "税"
+
+msgid "Discount"
+msgstr "折扣"
+
+msgid "Shipping"
+msgstr "运费"
+
+msgid "Handling"
+msgstr "处理费"
+
+msgid "Fee"
+msgstr "费用"
+
+msgid "Payment"
+msgstr "支付"
+
+msgid "Invoice"
+msgstr "发票"
+
+msgid "Receipt"
+msgstr "收据"
+
+msgid "Budget"
+msgstr "预算"
+
+msgid "Expense"
+msgstr "支出"
+
+msgid "Revenue"
+msgstr "收入"
+
+msgid "Profit"
+msgstr "利润"
+
+msgid "Loss"
+msgstr "亏损"
+
+msgid "Balance"
+msgstr "余额"
+
+msgid "Income"
+msgstr "收入"
+
+msgid "Debt"
+msgstr "债务"
+
+msgid "Asset"
+msgstr "资产"
+
+msgid "Liability"
+msgstr "负债"
+
+msgid "Equity"
+msgstr "权益"
+
+msgid "Cash"
+msgstr "现金"
+
+msgid "Check"
+msgstr "支票"
+
+msgid "Credit card"
+msgstr "信用卡"
+
+msgid "Debit card"
+msgstr "借记卡"
+
+msgid "Bank transfer"
+msgstr "银行转账"
+
+msgid "Wire transfer"
+msgstr "电汇"
+
+msgid "PayPal"
+msgstr "PayPal"
+
+msgid "Cash on delivery"
+msgstr "货到付款"
+
+msgid "Free"
+msgstr "免费"
+
+msgid "Paid"
+msgstr "已付款"
+
+msgid "Unpaid"
+msgstr "未付款"
+
+msgid "Overdue"
+msgstr "逾期"
+
+msgid "Pending"
+msgstr "待处理"
+
+msgid "Refunded"
+msgstr "已退款"
+
+msgid "Void"
+msgstr "作废"
+
+msgid "CNY"
+msgstr "人民币"
+
+msgid "USD"
+msgstr "美元"
+
+msgid "EUR"
+msgstr "欧元"
+
+msgid "GBP"
+msgstr "英镑"
+
+msgid "JPY"
+msgstr "日元"
+
+msgid "AUD"
+msgstr "澳元"
+
+msgid "CAD"
+msgstr "加元"
+
+msgid "CHF"
+msgstr "瑞士法郎"
+
+msgid "HKD"
+msgstr "港元"
+
+msgid "SGD"
+msgstr "新加坡元"
+
+# Countries and regions
+msgid "Country"
+msgstr "国家"
+
+msgid "Region"
+msgstr "地区"
+
+msgid "State"
+msgstr "州"
+
+msgid "Province"
+msgstr "省"
+
+msgid "County"
+msgstr "县"
+
+msgid "City"
+msgstr "城市"
+
+msgid "Town"
+msgstr "镇"
+
+msgid "Village"
+msgstr "村"
+
+msgid "District"
+msgstr "区"
+
+msgid "Postal code"
+msgstr "邮政编码"
+
+msgid "ZIP code"
+msgstr "邮编"
+
+msgid "Street address"
+msgstr "街道地址"
+
+msgid "Street"
+msgstr "街道"
+
+msgid "Avenue"
+msgstr "大道"
+
+msgid "Road"
+msgstr "路"
+
+msgid "Boulevard"
+msgstr "林荫大道"
+
+msgid "Lane"
+msgstr "巷"
+
+msgid "Drive"
+msgstr "道"
+
+msgid "Way"
+msgstr "路"
+
+msgid "Place"
+msgstr "广场"
+
+msgid "Building"
+msgstr "建筑"
+
+msgid "Floor"
+msgstr "楼层"
+
+msgid "Room"
+msgstr "房间"
+
+msgid "Suite"
+msgstr "套间"
+
+msgid "Apartment"
+msgstr "公寓"
+
+msgid "Unit"
+msgstr "单元"
+
+msgid "PO Box"
+msgstr "邮政信箱"
+
+msgid "Address line 1"
+msgstr "地址行1"
+
+msgid "Address line 2"
+msgstr "地址行2"
+
+msgid "Address line 3"
+msgstr "地址行3"
+
+# Contact information
+msgid "Phone number"
+msgstr "电话号码"
+
+msgid "Mobile phone"
+msgstr "手机"
+
+msgid "Fax"
+msgstr "传真"
+
+msgid "Email address"
+msgstr "电子邮件地址"
+
+msgid "Website URL"
+msgstr "网站URL"
+
+msgid "Social media"
+msgstr "社交媒体"
+
+msgid "Facebook"
+msgstr "Facebook"
+
+msgid "Twitter"
+msgstr "Twitter"
+
+msgid "Instagram"
+msgstr "Instagram"
+
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+msgid "YouTube"
+msgstr "YouTube"
+
+msgid "Contact"
+msgstr "联系"
+
+msgid "Contact information"
+msgstr "联系信息"
+
+msgid "Contact person"
+msgstr "联系人"
+
+msgid "Contact name"
+msgstr "联系人姓名"
+
+msgid "Contact email"
+msgstr "联系电子邮件"
+
+msgid "Contact phone"
+msgstr "联系电话"
+
+msgid "Primary contact"
+msgstr "主要联系人"
+
+msgid "Secondary contact"
+msgstr "次要联系人"
+
+msgid "Emergency contact"
+msgstr "紧急联系人"
+
+msgid "Support contact"
+msgstr "支持联系人"
+
+# File types
+msgid "Image"
+msgstr "图片"
+
+msgid "Video"
+msgstr "视频"
+
+msgid "Audio"
+msgstr "音频"
+
+msgid "Document"
+msgstr "文档"
+
+msgid "Spreadsheet"
+msgstr "电子表格"
+
+msgid "Presentation"
+msgstr "演示文稿"
+
+msgid "PDF"
+msgstr "PDF"
+
+msgid "Word document"
+msgstr "Word文档"
+
+msgid "Excel spreadsheet"
+msgstr "Excel电子表格"
+
+msgid "PowerPoint presentation"
+msgstr "PowerPoint演示文稿"
+
+msgid "Text file"
+msgstr "文本文件"
+
+msgid "CSV file"
+msgstr "CSV文件"
+
+msgid "JSON file"
+msgstr "JSON文件"
+
+msgid "XML file"
+msgstr "XML文件"
+
+msgid "HTML file"
+msgstr "HTML文件"
+
+msgid "CSS file"
+msgstr "CSS文件"
+
+msgid "JavaScript file"
+msgstr "JavaScript文件"
+
+msgid "ZIP file"
+msgstr "ZIP文件"
+
+msgid "Archive file"
+msgstr "存档文件"
+
+msgid "Compressed file"
+msgstr "压缩文件"
+
+# Colors
+msgid "Color"
+msgstr "颜色"
+
+msgid "Red"
+msgstr "红色"
+
+msgid "Orange"
+msgstr "橙色"
+
+msgid "Yellow"
+msgstr "黄色"
+
+msgid "Green"
+msgstr "绿色"
+
+msgid "Blue"
+msgstr "蓝色"
+
+msgid "Purple"
+msgstr "紫色"
+
+msgid "Pink"
+msgstr "粉色"
+
+msgid "Brown"
+msgstr "棕色"
+
+msgid "Black"
+msgstr "黑色"
+
+msgid "White"
+msgstr "白色"
+
+msgid "Gray"
+msgstr "灰色"
+
+msgid "Grey"
+msgstr "灰色"
+
+msgid "Cyan"
+msgstr "青色"
+
+msgid "Magenta"
+msgstr "洋红色"
+
+msgid "Olive"
+msgstr "橄榄色"
+
+msgid "Navy"
+msgstr "深蓝色"
+
+msgid "Maroon"
+msgstr "栗色"
+
+msgid "Teal"
+msgstr "蓝绿色"
+
+msgid "Silver"
+msgstr "银色"
+
+msgid "Gold"
+msgstr "金色"
+
+msgid "Beige"
+msgstr "米色"
+
+msgid "Tan"
+msgstr "棕褐色"
+
+msgid "Coral"
+msgstr "珊瑚色"
+
+msgid "Salmon"
+msgstr "鲑鱼色"
+
+msgid "Violet"
+msgstr "紫罗兰色"
+
+msgid "Indigo"
+msgstr "靛蓝色"
+
+msgid "Turquoise"
+msgstr "绿松石色"
+
+msgid "Lime"
+msgstr "酸橙色"
+
+msgid "Lime green"
+msgstr "浅绿色"
+
+msgid "Mint"
+msgstr "薄荷色"
+
+msgid "Aqua"
+msgstr "水色"
+
+msgid "Azure"
+msgstr "天蓝色"
+
+msgid "Crimson"
+msgstr "深红色"
+
+msgid "Scarlet"
+msgstr "猩红色"
+
+msgid "Ruby"
+msgstr "红宝石色"
+
+msgid "Amber"
+msgstr "琥珀色"
+
+msgid "Bronze"
+msgstr "青铜色"
+
+msgid "Copper"
+msgstr "铜色"
+
+msgid "Platinum"
+msgstr "铂金色"
+
+msgid "Charcoal"
+msgstr "炭灰色"
+
+msgid "Slate"
+msgstr "板岩色"
+
+msgid "Ivory"
+msgstr "象牙色"
+
+msgid "Cream"
+msgstr "奶油色"
+
+msgid "Peach"
+msgstr "桃色"
+
+msgid "Apricot"
+msgstr "杏色"
+
+msgid "Mango"
+msgstr "芒果色"
+
+msgid "Lemon"
+msgstr "柠檬色"
+
+msgid "Banana"
+msgstr "香蕉色"
+
+msgid "Honey"
+msgstr "蜂蜜色"
+
+msgid "Caramel"
+msgstr "焦糖色"
+
+msgid "Chocolate"
+msgstr "巧克力色"
+
+msgid "Coffee"
+msgstr "咖啡色"
+
+msgid "Mahogany"
+msgstr "红木色"
+
+msgid "Walnut"
+msgstr "胡桃色"
+
+msgid "Cedar"
+msgstr "雪松色"
+
+msgid "Pine"
+msgstr "松木色"
+
+msgid "Oak"
+msgstr "橡木色"
+
+msgid "Maple"
+msgstr "枫木色"
+
+msgid "Cherry"
+msgstr "樱桃色"
+
+msgid "Burgundy"
+msgstr "酒红色"
+
+msgid "Plum"
+msgstr "梅色"
+
+msgid "Lavender"
+msgstr "薰衣草色"
+
+msgid "Lilac"
+msgstr "淡紫色"
+
+msgid "Mauve"
+msgstr "淡紫红色"
+
+msgid "Rose"
+msgstr "玫瑰色"
+
+# Animals
+msgid "Cow"
+msgstr "牛"
+
+msgid "Bull"
+msgstr "公牛"
+
+msgid "Calf"
+msgstr "小牛"
+
+msgid "Heifer"
+msgstr "小母牛"
+
+msgid "Ox"
+msgstr "阉牛"
+
+msgid "Goat"
+msgstr "山羊"
+
+msgid "Kid"
+msgstr "小山羊"
+
+msgid "Sheep"
+msgstr "绵羊"
+
+msgid "Lamb"
+msgstr "羊羔"
+
+msgid "Ram"
+msgstr "公羊"
+
+msgid "Ewe"
+msgstr "母羊"
+
+msgid "Pig"
+msgstr "猪"
+
+msgid "Hog"
+msgstr "肥猪"
+
+msgid "Sow"
+msgstr "母猪"
+
+msgid "Boar"
+msgstr "公猪"
+
+msgid "Farrow"
+msgstr "一窝小猪"
+
+msgid "Horse"
+msgstr "马"
+
+msgid "Stallion"
+msgstr "种马"
+
+msgid "Mare"
+msgstr "母马"
+
+msgid "Gelding"
+msgstr "阉马"
+
+msgid "Filly"
+msgstr "小母马"
+
+msgid "Colt"
+msgstr "小公马"
+
+msgid "Pony"
+msgstr "矮马"
+
+msgid "Donkey"
+msgstr "驴"
+
+msgid "Mule"
+msgstr "骡子"
+
+msgid "Rabbit"
+msgstr "兔子"
+
+msgid "Hare"
+msgstr "野兔"
+
+msgid "Bunny"
+msgstr "小兔子"
+
+msgid "Poultry"
+msgstr "家禽"
+
+msgid "Chicken"
+msgstr "鸡"
+
+msgid "Rooster"
+msgstr "公鸡"
+
+msgid "Hen"
+msgstr "母鸡"
+
+msgid "Chick"
+msgstr "小鸡"
+
+msgid "Pullet"
+msgstr "小母鸡"
+
+msgid "Cockerel"
+msgstr "小公鸡"
+
+msgid "Duck"
+msgstr "鸭"
+
+msgid "Drake"
+msgstr "公鸭"
+
+msgid "Hen (duck)"
+msgstr "母鸭"
+
+msgid "Duckling"
+msgstr "小鸭"
+
+msgid "Goose"
+msgstr "鹅"
+
+msgid "Gander"
+msgstr "公鹅"
+
+msgid "Goose (female)"
+msgstr "母鹅"
+
+msgid "Gosling"
+msgstr "小鹅"
+
+msgid "Turkey"
+msgstr "火鸡"
+
+msgid "Tom"
+msgstr "雄火鸡"
+
+msgid "Hen (turkey)"
+msgstr "雌火鸡"
+
+msgid "Poult"
+msgstr "小火鸡"
+
+msgid "Quail"
+msgstr "鹌鹑"
+
+msgid "Pheasant"
+msgstr "野鸡"
+
+msgid "Peacock"
+msgstr "孔雀"
+
+msgid "Guinea fowl"
+msgstr "珍珠鸡"
+
+msgid "Ostrich"
+msgstr "鸵鸟"
+
+msgid "Emu"
+msgstr "鸸鹋"
+
+msgid "Fish"
+msgstr "鱼"
+
+msgid "Catfish"
+msgstr "鲶鱼"
+
+msgid "Carp"
+msgstr "鲤鱼"
+
+msgid "Trout"
+msgstr "鳟鱼"
+
+msgid "Salmon"
+msgstr "三文鱼"
+
+msgid "Tilapia"
+msgstr "罗非鱼"
+
+msgid "Bass"
+msgstr "鲈鱼"
+
+msgid "Cat"
+msgstr "猫"
+
+msgid "Dog"
+msgstr "狗"
+
+msgid "Bee"
+msgstr "蜜蜂"
+
+msgid "Honeybee"
+msgstr "蜜蜂"
+
+msgid "Worm"
+msgstr "蠕虫"
+
+msgid "Earthworm"
+msgstr "蚯蚓"
+
+msgid "Silkworm"
+msgstr "蚕"
+
+# Plants
+msgid "Vegetable"
+msgstr "蔬菜"
+
+msgid "Fruit"
+msgstr "水果"
+
+msgid "Grain"
+msgstr "谷物"
+
+msgid "Legume"
+msgstr "豆类"
+
+msgid "Nut"
+msgstr "坚果"
+
+msgid "Herb"
+msgstr "草本"
+
+msgid "Spice"
+msgstr "香料"
+
+msgid "Flower"
+msgstr "花"
+
+msgid "Tree"
+msgstr "树"
+
+msgid "Shrub"
+msgstr "灌木"
+
+msgid "Grass"
+msgstr "草"
+
+msgid "Vine"
+msgstr "藤本"
+
+msgid "Fern"
+msgstr "蕨类"
+
+msgid "Moss"
+msgstr "苔藓"
+
+msgid "Algae"
+msgstr "藻类"
+
+msgid "Mushroom"
+msgstr "蘑菇"
+
+msgid "Fungi"
+msgstr "真菌"
+
+msgid "Lichen"
+msgstr "地衣"
+
+msgid "Hay"
+msgstr "干草"
+
+msgid "Straw"
+msgstr "稻草"
+
+msgid "Silage"
+msgstr "青贮饲料"
+
+msgid "Compost"
+msgstr "堆肥"
+
+msgid "Mulch"
+msgstr "覆盖物"
+
+msgid "Soil"
+msgstr "土壤"
+
+msgid "Potting mix"
+msgstr "盆栽土"
+
+msgid "Seedling"
+msgstr "幼苗"
+
+msgid "Transplant"
+msgstr "移栽苗"
+
+msgid "Cutting"
+msgstr "插枝"
+
+msgid "Graft"
+msgstr "嫁接"
+
+msgid "Scion"
+msgstr "接穗"
+
+msgid "Rootstock"
+msgstr "砧木"
+
+msgid "Tuber"
+msgstr "块茎"
+
+msgid "Bulb"
+msgstr "鳞茎"
+
+msgid "Corm"
+msgstr "球茎"
+
+msgid "Rhizome"
+msgstr "根茎"
+
+msgid "Seed"
+msgstr "种子"
+
+msgid "Grain"
+msgstr "谷粒"
+
+msgid "Bean"
+msgstr "豆"
+
+msgid "Pea"
+msgstr "豌豆"
+
+msgid "Lettuce"
+msgstr "生菜"
+
+msgid "Tomato"
+msgstr "番茄"
+
+msgid "Potato"
+msgstr "土豆"
+
+msgid "Carrot"
+msgstr "胡萝卜"
+
+msgid "Onion"
+msgstr "洋葱"
+
+msgid "Garlic"
+msgstr "大蒜"
+
+msgid "Pepper"
+msgstr "辣椒"
+
+msgid "Cucumber"
+msgstr "黄瓜"
+
+msgid "Cabbage"
+msgstr "卷心菜"
+
+msgid "Broccoli"
+msgstr "西兰花"
+
+msgid "Cauliflower"
+msgstr "花椰菜"
+
+msgid "Spinach"
+msgstr "菠菜"
+
+msgid "Kale"
+msgstr "羽衣甘蓝"
+
+msgid "Corn"
+msgstr "玉米"
+
+msgid "Wheat"
+msgstr "小麦"
+
+msgid "Rice"
+msgstr "水稻"
+
+msgid "Barley"
+msgstr "大麦"
+
+msgid "Oat"
+msgstr "燕麦"
+
+msgid "Rye"
+msgstr "黑麦"
+
+msgid "Sorghum"
+msgstr "高粱"
+
+msgid "Millet"
+msgstr "小米"
+
+msgid "Buckwheat"
+msgstr "荞麦"
+
+msgid "Quinoa"
+msgstr "藜麦"
+
+msgid "Soybean"
+msgstr "大豆"
+
+msgid "Peanut"
+msgstr "花生"
+
+msgid "Almond"
+msgstr "杏仁"
+
+msgid "Walnut"
+msgstr "核桃"
+
+msgid "Hazelnut"
+msgstr "榛子"
+
+msgid "Pistachio"
+msgstr "开心果"
+
+msgid "Cashew"
+msgstr "腰果"
+
+msgid "Chestnut"
+msgstr "栗子"
+
+msgid "Apple"
+msgstr "苹果"
+
+msgid "Pear"
+msgstr "梨"
+
+msgid "Peach"
+msgstr "桃子"
+
+msgid "Plum"
+msgstr "李子"
+
+msgid "Cherry"
+msgstr "樱桃"
+
+msgid "Apricot"
+msgstr "杏"
+
+msgid "Orange"
+msgstr "橙子"
+
+msgid "Lemon"
+msgstr "柠檬"
+
+msgid "Lime"
+msgstr "酸橙"
+
+msgid "Grapefruit"
+msgstr "葡萄柚"
+
+msgid "Tangerine"
+msgstr "橘子"
+
+msgid "Mandarin"
+msgstr "柑橘"
+
+msgid "Clementine"
+msgstr "克莱门汀"
+
+msgid "Grape"
+msgstr "葡萄"
+
+msgid "Strawberry"
+msgstr "草莓"
+
+msgid "Blueberry"
+msgstr "蓝莓"
+
+msgid "Raspberry"
+msgstr "覆盆子"
+
+msgid "Blackberry"
+msgstr "黑莓"
+
+msgid "Cranberry"
+msgstr "蔓越莓"
+
+msgid "Watermelon"
+msgstr "西瓜"
+
+msgid "Cantaloupe"
+msgstr "哈密瓜"
+
+msgid "Honeydew"
+msgstr "蜜瓜"
+
+msgid "Banana"
+msgstr "香蕉"
+
+msgid "Mango"
+msgstr "芒果"
+
+msgid "Pineapple"
+msgstr "菠萝"
+
+msgid "Papaya"
+msgstr "木瓜"
+
+msgid "Guava"
+msgstr "番石榴"
+
+msgid "Kiwi"
+msgstr "猕猴桃"
+
+msgid "Passion fruit"
+msgstr "百香果"
+
+msgid "Pomegranate"
+msgstr "石榴"
+
+msgid "Fig"
+msgstr "无花果"
+
+msgid "Date"
+msgstr "枣"
+
+msgid "Coconut"
+msgstr "椰子"
+
+msgid "Avocado"
+msgstr "牛油果"
+
+msgid "Olive"
+msgstr "橄榄"
+
+msgid "Basil"
+msgstr "罗勒"
+
+msgid "Oregano"
+msgstr "牛至"
+
+msgid "Thyme"
+msgstr "百里香"
+
+msgid "Rosemary"
+msgstr "迷迭香"
+
+msgid "Sage"
+msgstr "鼠尾草"
+
+msgid "Mint"
+msgstr "薄荷"
+
+msgid "Parsley"
+msgstr "香芹"
+
+msgid "Cilantro"
+msgstr "香菜"
+
+msgid "Dill"
+msgstr "莳萝"
+
+msgid "Chives"
+msgstr "细香葱"
+
+msgid " Tarragon"
+msgstr "龙蒿"
+
+msgid "Lavender"
+msgstr "薰衣草"
+
+msgid "Lemongrass"
+msgstr "柠檬草"
+
+msgid "Ginger"
+msgstr "生姜"
+
+msgid "Turmeric"
+msgstr "姜黄"
+
+msgid "Cinnamon"
+msgstr "肉桂"
+
+msgid "Nutmeg"
+msgstr "肉豆蔻"
+
+msgid "Pepper"
+msgstr "胡椒"
+
+msgid "Paprika"
+msgstr "辣椒粉"
+
+msgid "Cumin"
+msgstr "孜然"
+
+msgid "Coriander"
+msgstr "芫荽"
+
+msgid "Fennel"
+msgstr "茴香"
+
+msgid "Caraway"
+msgstr "葛缕子"
+
+msgid "Saffron"
+msgstr "藏红花"
+
+msgid "Vanilla"
+msgstr "香草"
+
+msgid "Sunflower"
+msgstr "向日葵"
+
+msgid "Canola"
+msgstr "油菜"
+
+msgid "Flax"
+msgstr "亚麻"
+
+msgid "Hemp"
+msgstr "大麻"
+
+msgid "Cotton"
+msgstr "棉花"
+
+msgid "Tobacco"
+msgstr "烟草"
+
+msgid "Coffee"
+msgstr "咖啡"
+
+msgid "Cocoa"
+msgstr "可可"
+
+msgid "Tea"
+msgstr "茶"
+
+msgid "Sugarcane"
+msgstr "甘蔗"
+
+msgid "Sugar beet"
+msgstr "甜菜"
+
+msgid "Beet"
+msgstr "甜菜根"
+
+msgid "Radish"
+msgstr "萝卜"
+
+msgid "Turnip"
+msgstr "芜菁"
+
+msgid "Parsnip"
+msgstr "欧防风"
+
+msgid "Celery"
+msgstr "芹菜"
+
+msgid "Asparagus"
+msgstr "芦笋"
+
+msgid "Artichoke"
+msgstr "洋蓟"
+
+msgid "Eggplant"
+msgstr "茄子"
+
+msgid "Zucchini"
+msgstr "西葫芦"
+
+msgid "Squash"
+msgstr "南瓜"
+
+msgid "Pumpkin"
+msgstr "南瓜"
+
+msgid "Butternut"
+msgstr "冬南瓜"
+
+msgid "Acorn"
+msgstr "橡子南瓜"
+
+msgid "Kohlrabi"
+msgstr "苤蓝"
+
+msgid "Brussels sprouts"
+msgstr "抱子甘蓝"
+
+msgid "Leek"
+msgstr "韭葱"
+
+msgid "Shallot"
+msgstr "青葱"
+
+msgid "Scallion"
+msgstr "葱"
+
+msgid "Chard"
+msgstr "瑞士甜菜"
+
+msgid "Collard greens"
+msgstr "羽衣甘蓝"
+
+msgid "Arugula"
+msgstr "芝麻菜"
+
+msgid "Endive"
+msgstr "苦苣"
+
+msgid "Radicchio"
+msgstr "菊苣"
+
+msgid "Bok choy"
+msgstr "白菜"
+
+msgid "Napa cabbage"
+msgstr "大白菜"
+
+msgid "Jicama"
+msgstr "豆薯"
+
+msgid "Watercress"
+msgstr "豆瓣菜"
+
+msgid "Microgreens"
+msgstr "微型蔬菜"
+
+msgid "Sprouts"
+msgstr "芽菜"
+
+msgid "Mung beans"
+msgstr "绿豆"
+
+msgid "Adzuki beans"
+msgstr "红豆"
+
+msgid "Black beans"
+msgstr "黑豆"
+
+msgid "Kidney beans"
+msgstr "芸豆"
+
+msgid "Navy beans"
+msgstr "海军豆"
+
+msgid "Pinto beans"
+msgstr "斑豆"
+
+msgid "Lima beans"
+msgstr "利马豆"
+
+msgid "Fava beans"
+msgstr "蚕豆"
+
+msgid "Chickpeas"
+msgstr "鹰嘴豆"
+
+msgid "Lentils"
+msgstr "小扁豆"
+
+msgid "Split peas"
+msgstr "裂豌豆"
+
+msgid "Black-eyed peas"
+msgstr "黑眼豆"
+
+msgid "Cranberry beans"
+msgstr "蔓越莓豆"
+
+msgid "Mushroom"
+msgstr "蘑菇"
+
+msgid "Button mushroom"
+msgstr "白蘑菇"
+
+msgid "Portobello"
+msgstr "波特菇"
+
+msgid "Shiitake"
+msgstr "香菇"
+
+msgid "Oyster mushroom"
+msgstr "平菇"
+
+msgid "Cremini"
+msgstr "棕蘑菇"
+
+msgid "Enoki"
+msgstr "金针菇"
+
+msgid "Matsutake"
+msgstr "松茸"
+
+msgid "Morel"
+msgstr "羊肚菌"
+
+msgid "Chanterelle"
+msgstr "鸡油菌"
+
+msgid "Truffle"
+msgstr "松露"
+
+msgid "Porcini"
+msgstr "牛肝菌"
+
+msgid " Maitake"
+msgstr "舞茸"
+
+msgid "Reishi"
+msgstr "灵芝"
+
+msgid "Chaga"
+msgstr "白桦茸"
+
+msgid "Cordyceps"
+msgstr "虫草"
+
+# Weather
+msgid "Weather"
+msgstr "天气"
+
+msgid "Weather conditions"
+msgstr "天气状况"
+
+msgid "Temperature"
+msgstr "温度"
+
+msgid "Humidity"
+msgstr "湿度"
+
+msgid "Rainfall"
+msgstr "降雨量"
+
+msgid "Precipitation"
+msgstr "降水量"
+
+msgid "Wind"
+msgstr "风"
+
+msgid "Wind speed"
+msgstr "风速"
+
+msgid "Wind direction"
+msgstr "风向"
+
+msgid "Barometric pressure"
+msgstr "气压"
+
+msgid "Cloud cover"
+msgstr "云量"
+
+msgid "Visibility"
+msgstr "能见度"
+
+msgid "UV index"
+msgstr "紫外线指数"
+
+msgid "Sunrise"
+msgstr "日出"
+
+msgid "Sunset"
+msgstr "日落"
+
+msgid "Dawn"
+msgstr "黎明"
+
+msgid "Dusk"
+msgstr "黄昏"
+
+msgid "Day length"
+msgstr "日照时长"
+
+msgid "Moon phase"
+msgstr "月相"
+
+msgid "Clear"
+msgstr "晴朗"
+
+msgid "Cloudy"
+msgstr "多云"
+
+msgid "Overcast"
+msgstr "阴天"
+
+msgid "Partly cloudy"
+msgstr "局部多云"
+
+msgid "Mostly cloudy"
+msgstr "大部分多云"
+
+msgid "Sunny"
+msgstr "晴天"
+
+msgid "Hot"
+msgstr "热"
+
+msgid "Cold"
+msgstr "冷"
+
+msgid "Cool"
+msgstr "凉爽"
+
+msgid "Warm"
+msgstr "温暖"
+
+msgid "Freezing"
+msgstr "冰冻"
+
+msgid "Snow"
+msgstr "雪"
+
+msgid "Rain"
+msgstr "雨"
+
+msgid "Drizzle"
+msgstr "毛毛雨"
+
+msgid "Thunderstorm"
+msgstr "雷暴"
+
+msgid "Lightning"
+msgstr "闪电"
+
+msgid "Thunder"
+msgstr "雷"
+
+msgid "Fog"
+msgstr "雾"
+
+msgid "Mist"
+msgstr "薄雾"
+
+msgid "Haze"
+msgstr "霾"
+
+msgid "Smoke"
+msgstr "烟"
+
+msgid "Dust"
+msgstr "灰尘"
+
+msgid "Sandstorm"
+msgstr "沙尘暴"
+
+msgid "Blizzard"
+msgstr "暴风雪"
+
+msgid "Hail"
+msgstr "冰雹"
+
+msgid "Sleet"
+msgstr "雨夹雪"
+
+msgid "Freezing rain"
+msgstr "冻雨"
+
+msgid "Ice"
+msgstr "冰"
+
+msgid "Frost"
+msgstr "霜"
+
+msgid "Drought"
+msgstr "干旱"
+
+msgid "Flood"
+msgstr "洪水"
+
+msgid "Storm"
+msgstr "暴风雨"
+
+msgid "Hurricane"
+msgstr "飓风"
+
+msgid "Typhoon"
+msgstr "台风"
+
+msgid "Tornado"
+msgstr "龙卷风"
+
+msgid "Monsoon"
+msgstr "季风"
+
+msgid "Trade winds"
+msgstr "信风"
+
+msgid "Westerlies"
+msgstr "西风带"
+
+msgid "Easterlies"
+msgstr "东风带"
+
+msgid "Calm"
+msgstr "无风"
+
+msgid "Breezy"
+msgstr "微风"
+
+msgid "Windy"
+msgstr "大风"
+
+msgid "Gusty"
+msgstr "阵风"
+
+msgid "Gale"
+msgstr "大风"
+
+msgid "Storm force"
+msgstr "暴风"
+
+msgid "Hurricane force"
+msgstr "飓风级"
+
+msgid "North"
+msgstr "北"
+
+msgid "South"
+msgstr "南"
+
+msgid "East"
+msgstr "东"
+
+msgid "West"
+msgstr "西"
+
+msgid "Northeast"
+msgstr "东北"
+
+msgid "Northwest"
+msgstr "西北"
+
+msgid "Southeast"
+msgstr "东南"
+
+msgid "Southwest"
+msgstr "西南"
